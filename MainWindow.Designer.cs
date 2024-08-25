@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            btn_initTracker = new Button();
+            SuspendLayout();
+            // 
+            // btn_initTracker
+            // 
+            btn_initTracker.Location = new Point(80, 38);
+            btn_initTracker.Name = "btn_initTracker";
+            btn_initTracker.Size = new Size(135, 77);
+            btn_initTracker.TabIndex = 0;
+            btn_initTracker.Text = "Initiative Tracker";
+            btn_initTracker.UseVisualStyleBackColor = true;
+            btn_initTracker.Click += btn_initTracker_Click;
+            // 
+            // MainWindow
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(btn_initTracker);
+            Name = "MainWindow";
+            Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btn_initTracker;
     }
 }

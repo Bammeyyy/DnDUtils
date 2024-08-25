@@ -6,5 +6,11 @@ namespace DnDUtils
         {
             InitializeComponent();
         }
+
+        private void btn_initTracker_Click(object sender, EventArgs e)
+        {
+            InitTracker initTracker = new InitTracker();
+            initTracker.Show();
+        }
     }
 }
