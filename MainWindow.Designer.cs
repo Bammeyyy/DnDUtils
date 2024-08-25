@@ -50,7 +50,7 @@
             button2.Name = "button2";
             button2.Size = new Size(176, 65);
             button2.TabIndex = 0;
-            button2.Text = "button1";
+            button2.Text = "Database";
             button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -59,7 +59,7 @@
             button3.Name = "button3";
             button3.Size = new Size(176, 65);
             button3.TabIndex = 0;
-            button3.Text = "button1";
+            button3.Text = "Soundboard";
             button3.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -68,7 +68,7 @@
             button4.Name = "button4";
             button4.Size = new Size(176, 65);
             button4.TabIndex = 0;
-            button4.Text = "button1";
+            button4.Text = "Something Else idk";
             button4.UseVisualStyleBackColor = true;
             // 
             // MainWindow
