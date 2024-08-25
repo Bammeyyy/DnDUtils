@@ -29,8 +29,14 @@
         private void InitializeComponent()
         {
             btn_initTracker = new Button();
+<<<<<<< Updated upstream
             btn_database = new Button();
             btn_soundboard = new Button();
+=======
+            button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
+>>>>>>> Stashed changes
             SuspendLayout();
             // 
             // btn_initTracker
@@ -41,7 +47,11 @@
             btn_initTracker.TabIndex = 0;
             btn_initTracker.Text = "Initiative Tracker";
             btn_initTracker.UseVisualStyleBackColor = true;
+<<<<<<< Updated upstream
             btn_initTracker.Click += this.btn_initTracker_Click;
+=======
+            btn_initTracker.Click += btn_initTracker_Click;
+>>>>>>> Stashed changes
             // 
             // btn_database
             // 
@@ -67,8 +77,14 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+<<<<<<< Updated upstream
             Controls.Add(btn_soundboard);
             Controls.Add(btn_database);
+=======
+            Controls.Add(button4);
+            Controls.Add(button3);
+            Controls.Add(button2);
+>>>>>>> Stashed changes
             Controls.Add(btn_initTracker);
             Name = "MainWindow";
             Text = "Form1";
@@ -78,7 +94,13 @@
         #endregion
 
         private Button btn_initTracker;
+<<<<<<< Updated upstream
         private Button btn_database;
         private Button btn_soundboard;
+=======
+        private Button button2;
+        private Button button3;
+        private Button button4;
+>>>>>>> Stashed changes
     }
 }
