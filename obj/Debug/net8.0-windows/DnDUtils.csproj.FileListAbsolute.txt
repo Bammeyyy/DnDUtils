@@ -1,0 +1,25 @@
+Q:\Documents\projects\DnDUtils\bin\Debug\net8.0-windows\DnDUtils.exe
+Q:\Documents\projects\DnDUtils\bin\Debug\net8.0-windows\DnDUtils.deps.json
+Q:\Documents\projects\DnDUtils\bin\Debug\net8.0-windows\DnDUtils.runtimeconfig.json
+Q:\Documents\projects\DnDUtils\bin\Debug\net8.0-windows\DnDUtils.dll
+Q:\Documents\projects\DnDUtils\bin\Debug\net8.0-windows\DnDUtils.pdb
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.MainWindow.resources
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.csproj.GenerateResource.cache
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.AssemblyInfoInputs.cache
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.AssemblyInfo.cs
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.csproj.CoreCompileInputs.cache
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.sourcelink.json
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.dll
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\refint\DnDUtils.dll
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.pdb
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.genruntimeconfig.cache
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\ref\DnDUtils.dll
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.InitTracker.resources
+>>>>>>> Stashed changes
+=======
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.InitiativeTracker.resources
+>>>>>>> Stashed changes
