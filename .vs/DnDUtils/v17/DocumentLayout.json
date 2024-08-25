@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "Q:\\Documents\\projects\\DnDUtils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\iniativetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|solutionrelative:iniativetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F6F353D-CA8E-42FB-B636-4270D889775C}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IniativeTracker.cs [Design]",
+              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\IniativeTracker.cs",
+              "RelativeDocumentMoniker": "IniativeTracker.cs",
+              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\IniativeTracker.cs [Design]",
+              "RelativeToolTip": "IniativeTracker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:57:58.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.cs",
               "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
               "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
               "RelativeToolTip": "MainWindow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T16:27:49.546Z",
+              "WhenOpened": "2024-08-25T16:50:29.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.cs [Design]",
               "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
               "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs [Design]",
               "RelativeToolTip": "MainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T16:25:29.863Z",
+              "WhenOpened": "2024-08-25T16:50:11.549Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "MainWindow.Designer.cs",
+              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.Designer.cs",
+              "RelativeToolTip": "MainWindow.Designer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:43:07.216Z",
+              "EditorCaption": ""
             }
           ]
         }
