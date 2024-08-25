@@ -1,6 +1,6 @@
 ﻿namespace DnDUtils
 {
-    partial class MainWindow
+    partial class InitTracker
     {
         /// <summary>
         ///  Required designer variable.

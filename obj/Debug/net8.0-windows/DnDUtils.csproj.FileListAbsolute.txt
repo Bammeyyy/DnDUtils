@@ -16,6 +16,10 @@ Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.pdb
 Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.genruntimeconfig.cache
 Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\ref\DnDUtils.dll
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.InitTracker.resources
+>>>>>>> Stashed changes
+=======
+Q:\Documents\projects\DnDUtils\obj\Debug\net8.0-windows\DnDUtils.InitiativeTracker.resources
 >>>>>>> Stashed changes
