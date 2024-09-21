@@ -55,7 +55,6 @@
             // list_Characters
             // 
             list_Characters.FormattingEnabled = true;
-            list_Characters.Items.AddRange(new object[] { "Beddy", "Hyde", "Xic", "robert" });
             list_Characters.Location = new Point(12, 27);
             list_Characters.Name = "list_Characters";
             list_Characters.Size = new Size(121, 23);
@@ -73,11 +72,13 @@
             // 
             // btn_Stop
             // 
-            btn_Stop.Location = new Point(229, 27);
+            btn_Stop.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_Stop.ForeColor = SystemColors.HotTrack;
+            btn_Stop.Location = new Point(260, 27);
             btn_Stop.Name = "btn_Stop";
-            btn_Stop.Size = new Size(281, 98);
+            btn_Stop.Size = new Size(250, 272);
             btn_Stop.TabIndex = 3;
-            btn_Stop.Text = "Stop";
+            btn_Stop.Text = "STOP NIGGA";
             btn_Stop.UseVisualStyleBackColor = true;
             btn_Stop.Click += btn_Stop_Click;
             // 
@@ -142,7 +143,7 @@
             btn_PlayMemes.TabIndex = 2;
             btn_PlayMemes.Text = "Play";
             btn_PlayMemes.UseVisualStyleBackColor = true;
-            btn_PlayMemes.Click += btn_PlayAmbience_Click;
+            btn_PlayMemes.Click += btn_PlayMemes_Click;
             // 
             // button1
             // 
@@ -256,7 +257,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(532, 312);
             Controls.Add(button12);
             Controls.Add(button11);
             Controls.Add(button8);
