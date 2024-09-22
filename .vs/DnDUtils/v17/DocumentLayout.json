@@ -1,46 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Q:\\Documents\\projects\\DnDUtils\\",
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|Q:\\Documents\\projects\\DnDUtils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|Q:\\Documents\\projects\\DnDUtils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|Q:\\Documents\\projects\\DnDUtils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|Q:\\Documents\\projects\\DnDUtils\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\lookup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\lookup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:lookup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|c:\\users\\rober\\onedrive\\documents\\github\\dndutils\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|q:\\documents\\projects\\dndutils\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,54 +61,75 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitTracker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.cs",
+              "RelativeDocumentMoniker": "InitTracker.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.cs [Design]",
+              "RelativeToolTip": "InitTracker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:49:54.266Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InitTracker.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.cs",
+              "RelativeDocumentMoniker": "InitTracker.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.cs",
+              "RelativeToolTip": "InitTracker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:40:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitTracker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.Designer.cs",
+              "RelativeDocumentMoniker": "InitTracker.Designer.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\InitTracker.Designer.cs",
+              "RelativeToolTip": "InitTracker.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:00:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Soundboard.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.cs",
               "RelativeDocumentMoniker": "Soundboard.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.cs",
               "RelativeToolTip": "Soundboard.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T00:35:02.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Soundboard.cs [Design]",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.cs",
-              "RelativeDocumentMoniker": "Soundboard.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.cs [Design]",
-              "RelativeToolTip": "Soundboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T00:50:35.671Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Soundboard.Designer.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.Designer.cs",
               "RelativeDocumentMoniker": "Soundboard.Designer.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Soundboard.Designer.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.Designer.cs",
               "RelativeToolTip": "Soundboard.Designer.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAYwJEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T00:29:24.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T00:29:24.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Lookup.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Lookup.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Lookup.cs",
               "RelativeDocumentMoniker": "Lookup.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Lookup.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Lookup.cs",
               "RelativeToolTip": "Lookup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Lookup.Designer.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Lookup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Lookup.Designer.cs",
               "RelativeDocumentMoniker": "Lookup.Designer.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Lookup.Designer.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Lookup.Designer.cs",
               "RelativeToolTip": "Lookup.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,62 +150,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainWindow.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\MainWindow.cs",
               "RelativeToolTip": "MainWindow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAArwAsAAAA1AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:30:58.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "MainWindow.Designer.cs",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\MainWindow.Designer.cs",
               "RelativeDocumentMoniker": "MainWindow.Designer.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\MainWindow.Designer.cs",
               "RelativeToolTip": "MainWindow.Designer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAMwD8AAAA5AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:50:22.011Z"
+              "WhenOpened": "2024-08-25T17:50:22.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Soundboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.cs",
+              "RelativeDocumentMoniker": "Soundboard.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Soundboard.cs [Design]",
+              "RelativeToolTip": "Soundboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:50:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.cs [Design]",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
               "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\MainWindow.cs [Design]",
-              "RelativeToolTip": "MainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T00:33:41.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Lookup.cs [Design]",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\Lookup.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\DnDUtils\\Lookup.cs",
               "RelativeDocumentMoniker": "Lookup.cs",
               "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\Lookup.cs [Design]",
-              "RelativeToolTip": "Lookup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T20:52:44.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InitTracker.cs [Design]",
-              "DocumentMoniker": "Q:\\Documents\\projects\\DnDUtils\\InitTracker.cs",
-              "RelativeDocumentMoniker": "InitTracker.cs",
-              "ToolTip": "Q:\\Documents\\projects\\DnDUtils\\InitTracker.cs [Design]",
-              "RelativeToolTip": "InitTracker.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:50:49.402Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
