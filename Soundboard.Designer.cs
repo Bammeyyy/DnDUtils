@@ -78,7 +78,7 @@
             btn_Stop.Name = "btn_Stop";
             btn_Stop.Size = new Size(250, 272);
             btn_Stop.TabIndex = 3;
-            btn_Stop.Text = "STOP NIGGA";
+            btn_Stop.Text = "STOP";
             btn_Stop.UseVisualStyleBackColor = true;
             btn_Stop.Click += btn_Stop_Click;
             // 
@@ -130,7 +130,7 @@
             // list_Memes
             // 
             list_Memes.FormattingEnabled = true;
-            list_Memes.Location = new Point(12, 158);
+            list_Memes.Location = new Point(11, 158);
             list_Memes.Name = "list_Memes";
             list_Memes.Size = new Size(121, 23);
             list_Memes.TabIndex = 1;

@@ -8,6 +8,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 
 namespace DnDUtils
 {
@@ -27,7 +28,7 @@ namespace DnDUtils
             loadAmbience();
             loadMemes();
         }
-        
+
         public void playFile(string file)
         {
             if (file != "")
@@ -87,7 +88,7 @@ namespace DnDUtils
         {
             fileMemes = list_Memes.Text;
             fileType = "memes\\";
-            playFile(fileAmbience);
+            playFile(fileMemes);
         }
     }
 }
