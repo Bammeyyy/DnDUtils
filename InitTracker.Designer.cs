@@ -28,95 +28,122 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             lbl_TurnTimer = new Label();
             lstBox_InitList = new ListBox();
-            lbl_AddName = new Label();
             txtBox_Name = new TextBox();
             btn_NextTurn = new Button();
-            lbl_Name = new Label();
-            btn_ = new Button();
+            lbl_NameAndInit = new Label();
+            btn_AddToInit = new Button();
+            numUpDwn_InitAdd = new NumericUpDown();
+            label1 = new Label();
+            tmr_TurnTimer = new System.Windows.Forms.Timer(components);
+            ((System.ComponentModel.ISupportInitialize)numUpDwn_InitAdd).BeginInit();
             SuspendLayout();
             // 
             // lbl_TurnTimer
             // 
             lbl_TurnTimer.AutoSize = true;
-            lbl_TurnTimer.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbl_TurnTimer.Font = new Font("Segoe UI", 26F, FontStyle.Bold);
             lbl_TurnTimer.Location = new Point(12, 9);
             lbl_TurnTimer.Name = "lbl_TurnTimer";
             lbl_TurnTimer.RightToLeft = RightToLeft.No;
-            lbl_TurnTimer.Size = new Size(107, 45);
+            lbl_TurnTimer.Size = new Size(158, 47);
             lbl_TurnTimer.TabIndex = 1;
-            lbl_TurnTimer.Text = "Timer";
+            lbl_TurnTimer.Text = "00:00:00";
             // 
             // lstBox_InitList
             // 
+            lstBox_InitList.Font = new Font("Segoe UI", 14F);
             lstBox_InitList.FormattingEnabled = true;
-            lstBox_InitList.ItemHeight = 15;
-            lstBox_InitList.Location = new Point(664, 12);
+            lstBox_InitList.ItemHeight = 25;
+            lstBox_InitList.Location = new Point(206, 12);
             lstBox_InitList.Name = "lstBox_InitList";
-            lstBox_InitList.Size = new Size(124, 229);
-            lstBox_InitList.TabIndex = 2;
-            // 
-            // lbl_AddName
-            // 
-            lbl_AddName.AutoSize = true;
-            lbl_AddName.Font = new Font("Segoe UI", 24F, FontStyle.Bold);
-            lbl_AddName.Location = new Point(476, 12);
-            lbl_AddName.Name = "lbl_AddName";
-            lbl_AddName.Size = new Size(0, 45);
-            lbl_AddName.TabIndex = 4;
+            lstBox_InitList.Size = new Size(193, 329);
+            lstBox_InitList.TabIndex = 0;
+            lstBox_InitList.TabStop = false;
             // 
             // txtBox_Name
             // 
             txtBox_Name.AcceptsReturn = true;
-            txtBox_Name.Location = new Point(484, 60);
+            txtBox_Name.Location = new Point(96, 170);
+            txtBox_Name.Multiline = true;
             txtBox_Name.Name = "txtBox_Name";
             txtBox_Name.Size = new Size(100, 23);
-            txtBox_Name.TabIndex = 5;
-            txtBox_Name.KeyDown += txtBox_Name_KeyDown;
+            txtBox_Name.TabIndex = 2;
             // 
             // btn_NextTurn
             // 
+            btn_NextTurn.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_NextTurn.Location = new Point(12, 60);
             btn_NextTurn.Name = "btn_NextTurn";
-            btn_NextTurn.Size = new Size(75, 23);
-            btn_NextTurn.TabIndex = 6;
-            btn_NextTurn.Text = "Next";
+            btn_NextTurn.Size = new Size(188, 104);
+            btn_NextTurn.TabIndex = 1;
+            btn_NextTurn.Text = "Next Turn";
             btn_NextTurn.UseVisualStyleBackColor = true;
             btn_NextTurn.Click += btn_NextTurn_Click;
             // 
-            // lbl_Name
+            // lbl_NameAndInit
             // 
-            lbl_Name.AutoSize = true;
-            lbl_Name.Location = new Point(521, 19);
-            lbl_Name.Name = "lbl_Name";
-            lbl_Name.Size = new Size(38, 15);
-            lbl_Name.TabIndex = 7;
-            lbl_Name.Text = "label1";
+            lbl_NameAndInit.AutoSize = true;
+            lbl_NameAndInit.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbl_NameAndInit.Location = new Point(9, 167);
+            lbl_NameAndInit.Name = "lbl_NameAndInit";
+            lbl_NameAndInit.Size = new Size(81, 32);
+            lbl_NameAndInit.TabIndex = 7;
+            lbl_NameAndInit.Text = "Name";
             // 
-            // btn_
+            // btn_AddToInit
             // 
-            btn_.Location = new Point(484, 89);
-            btn_.Name = "btn_";
-            btn_.Size = new Size(75, 23);
-            btn_.TabIndex = 8;
-            btn_.Text = "button1";
-            btn_.UseVisualStyleBackColor = true;
+            btn_AddToInit.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_AddToInit.Location = new Point(12, 246);
+            btn_AddToInit.Name = "btn_AddToInit";
+            btn_AddToInit.Size = new Size(188, 95);
+            btn_AddToInit.TabIndex = 4;
+            btn_AddToInit.Text = "Add Name";
+            btn_AddToInit.UseVisualStyleBackColor = true;
+            btn_AddToInit.Click += btn_AddToInit_Click;
+            // 
+            // numUpDwn_InitAdd
+            // 
+            numUpDwn_InitAdd.Location = new Point(96, 208);
+            numUpDwn_InitAdd.Maximum = new decimal(new int[] { 99, 0, 0, 0 });
+            numUpDwn_InitAdd.Name = "numUpDwn_InitAdd";
+            numUpDwn_InitAdd.Size = new Size(100, 23);
+            numUpDwn_InitAdd.TabIndex = 3;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(62, 203);
+            label1.Name = "label1";
+            label1.Size = new Size(28, 32);
+            label1.TabIndex = 10;
+            label1.Text = "#";
+            // 
+            // tmr_TurnTimer
+            // 
+            tmr_TurnTimer.Enabled = true;
+            tmr_TurnTimer.Interval = 1000;
+            tmr_TurnTimer.Tick += tmr_TurnTimer_Tick;
             // 
             // InitTracker
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(btn_);
-            Controls.Add(lbl_Name);
+            ClientSize = new Size(411, 362);
+            Controls.Add(label1);
+            Controls.Add(numUpDwn_InitAdd);
+            Controls.Add(btn_AddToInit);
+            Controls.Add(lbl_NameAndInit);
             Controls.Add(btn_NextTurn);
             Controls.Add(txtBox_Name);
-            Controls.Add(lbl_AddName);
             Controls.Add(lstBox_InitList);
             Controls.Add(lbl_TurnTimer);
             Name = "InitTracker";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)numUpDwn_InitAdd).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -124,10 +151,12 @@
         #endregion
         private Label lbl_TurnTimer;
         private ListBox lstBox_InitList;
-        private Label lbl_AddName;
         private TextBox txtBox_Name;
         private Button btn_NextTurn;
-        private Label lbl_Name;
-        private Button btn_;
+        private Label lbl_NameAndInit;
+        private Button btn_AddToInit;
+        private NumericUpDown numUpDwn_InitAdd;
+        private Label label1;
+        private System.Windows.Forms.Timer tmr_TurnTimer;
     }
 }
