@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feats_db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<feat>
+		<Name>Actor</Name>
+		<Description>+1 in Cha., advantage on Deception and Performance checks, mimic the speech of a person or the sounds made by a creature.</Description>
+	</feat>
+	<feat>
+		<Name>Adept of the Black Robes</Name>
+		<Description>You learn one 2nd-level spell from enchantment or necromancy school and expend Hit Dice to increases the damage of your spells.</Description>
+	</feat>
+	<feat>
+		<Name>Adept of the Red Robes</Name>
+		<Description>You learn one 2nd-level spell from illusion or transmutation school and treat an attack roll as 10 (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Adept of the White Robes</Name>
+		<Description>You learn one 2nd-level spell from abjuration or divination school and expend a spell slot to reduce damage on a creature.</Description>
+	</feat>
+	<feat>
+		<Name>Agent of Order</Name>
+		<Description>+1 in one ability, extra 1d8 force damage, and the target is restrained if it fails its save (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Alert</Name>
+		<Description>+5 to initiative, you can't be surprised, and creatures you don't see don't gain advantage on attack roll against you.</Description>
+	</feat>
+	<feat>
+		<Name>Artificer Initiate</Name>
+		<Description>You learn one cantrip and one 1st-level artificier spell (cast without slot), proficiency with one type of artisan's tools.</Description>
+	</feat>
+	<feat>
+		<Name>Athlete</Name>
+		<Description>+1 in Str. or Dex., you stand up and climb more quickly, and you can jump with only a 5-ft run.</Description>
+	</feat>
+	<feat>
+		<Name>Baleful Scion</Name>
+		<Description>+1 in one ability, extra 1d6+PB necrotic damage, and you regain hp (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Blood Magic</Name>
+		<Description>Sacrifice hit points and regain spell slots of level 5 or lower.</Description>
+	</feat>
+	<feat>
+		<Name>Bountiful Luck</Name>
+		<Description>You can let an ally within 30 ft of you to reroll a 1 on a d20.</Description>
+	</feat>
+	<feat>
+		<Name>Cartomancer</Name>
+	</feat>
+	<feat>
+		<Name>Charger</Name>
+		<Description>As part of the Dash action you can make a melee attack with a +5 bonus if you move at least 10 ft before.</Description>
+	</feat>
+	<feat>
+		<Name>Chef</Name>
+		<Description>+1 in Con. or Wis., proficiency with cook's utensils and cook special food to regain hp.</Description>
+	</feat>
+	<feat>
+		<Name>Cohort of Chaos</Name>
+		<Description>+1 in one ability and special random event for a 1 or a 20 on an attack roll or a saving throw.</Description>
+	</feat>
+	<feat>
+		<Name>Competent</Name>
+		<Description>+1 in one ability and you gain proficiency in one skill using this ability.</Description>
+	</feat>
+	<feat>
+		<Name>Crossbow Expert</Name>
+		<Description>You ignore the loading property of crossbows and don't have disadvantage for being in contact with a creature when you shoot.</Description>
+	</feat>
+	<feat>
+		<Name>Crusher</Name>
+		<Description>+1 in Str. or Con., 5 ft extra move when you hit (bludgeoning) and attacks with advantage after a critical hit.</Description>
+	</feat>
+	<feat>
+		<Name>Defensive Duelist</Name>
+		<Description>You can add your proficiency bonus to your AC if you are wielding a finesse weapon, in reaction to a melee attack.</Description>
+	</feat>
+	<feat>
+		<Name>Divinely Favored</Name>
+		<Description>You learn one cleric cantrip, augury and one 1st-level spell from a determined list depending on your alignment.</Description>
+	</feat>
+	<feat>
+		<Name>Dragon Fear</Name>
+		<Description>+1 in Str., Con., or Cha. and your Breath Weapon can frighten instead of inflicting damages.</Description>
+	</feat>
+	<feat>
+		<Name>Dragon Hide</Name>
+		<Description>+1 in Str., Con., or Cha., your AC becomes 13+Dex. modifier and your retractable claws deal 1d4+Str. modifier slashing damage.</Description>
+	</feat>
+	<feat>
+		<Name>Drow High Magic</Name>
+		<Description>You can cast the detect magic spell (at will) and the levitate and dispel magic spells (1/long rest).</Description>
+	</feat>
+	<feat>
+		<Name>Dual Wielder</Name>
+		<Description>+1 to AC if you're wielding a melee weapon in each hand, two-weapon fighting with non-light weapon, draw two weapons.</Description>
+	</feat>
+	<feat>
+		<Name>Dungeon Delver</Name>
+		<Description>Advantage to Perception and Investigation checks, to saving throws vs traps, and search for traps at normal pace.</Description>
+	</feat>
+	<feat>
+		<Name>Durable</Name>
+		<Description>+1 in Con. and for each Hit Dice you regain a minimum of hit points equals to 2 x your Constitution modifier.</Description>
+	</feat>
+	<feat>
+		<Name>Dwarf Fortitude</Name>
+		<Description>+1 in Con., and you can spend one Hit Die to heal yourself taking the Dodge action.</Description>
+	</feat>
+	<feat>
+		<Name>Eldritch Adept</Name>
+		<Description>You learn one Eldritch Invocation.</Description>
+	</feat>
+	<feat>
+		<Name>Elemental Adept</Name>
+		<Description>Your spells ignore resistance to a damage type (acid, cold, fire, lightning, or thunder) and treat any 1 in damage as a 2.</Description>
+	</feat>
+	<feat>
+		<Name>Elven Accuracy</Name>
+		<Description>+1 in Dex., Int., Wis., or Cha., and you can reroll one attack roll if you have advantage.</Description>
+	</feat>
+	<feat>
+		<Name>Ember of the Fire Giant</Name>
+		<Description>+1 in Str., Con., or Wis. ; resistance to fire damage ; 1d8+PB fire damage + blinded (15-ft-radius ; PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Fade away</Name>
+		<Description>+1 in Dex. or Int., and you can use your reaction to become invisible if you take damage.</Description>
+	</feat>
+	<feat>
+		<Name>Fey Teleportation</Name>
+		<Description>+1 in Int. or Cha., you speak Sylvan, and you can cast the misty step spell (1/short rest).</Description>
+	</feat>
+	<feat>
+		<Name>Fey Touched</Name>
+		<Description>+1 in Int., Wis., or Cha., and you learn misty step and one 1st-level spell from divination or enchantment school.</Description>
+	</feat>
+	<feat>
+		<Name>Fighting Initiate</Name>
+		<Description>You learn one Fighting Style option from the fighter class.</Description>
+	</feat>
+	<feat>
+		<Name>Flames of Phlegethos</Name>
+		<Description>+1 in Int. or Cha., reroll any 1 on fire spell damage, and cause flames to wreathe you if you cast a fire spell.</Description>
+	</feat>
+	<feat>
+		<Name>Fury of the Frost Giant</Name>
+		<Description>+1 in Str., Con., or Wis. ; resistance to cold damage ; 1d8+PB cold damage + speed reduced to 0 (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Gift of the Chromatic Dragon</Name>
+		<Description>Extra 1d4 acid, cold, fire, lightning, or poison damage for 1 min (bonus action). Resistance to 1 of these damages (reaction).</Description>
+	</feat>
+	<feat>
+		<Name>Gift of the Gem Dragon</Name>
+		<Description>+1 in Int., Wis., or Cha., Strength saving throw or 2d8 force damage and pushed away 10 ft in reaction to an attack (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Gift of the Metallic Dragon</Name>
+		<Description>You can cast cure wounds (1/long rest). As a reaction to an attack, can manifest wings to get +PB to your AC (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Grappler</Name>
+		<Description>You have advantage on attack rolls when grappling, and can try to restrained a creature grappled by you.</Description>
+	</feat>
+	<feat>
+		<Name>Great Weapon Master</Name>
+		<Description>Extra attack after a melee critical hit and you can choose to take -5 to attack roll to add +10 to damage with an heavy weapon.</Description>
+	</feat>
+	<feat>
+		<Name>Guile of the Cloud Giant</Name>
+		<Description>+1 in Str., Con., or Wis. ; resistance to attack's damage ; teleport within 30 ft (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Gunner</Name>
+		<Description>+1 in Dex., proficiency with firearms, ignore loading property of firearms and no disadvantage to attacks within 5 ft.</Description>
+	</feat>
+	<feat>
+		<Name>Healer</Name>
+		<Description>You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it.</Description>
+	</feat>
+	<feat>
+		<Name>Heavily Armored</Name>
+		<Description>+1 in Str. and you gain proficiency with heavy armor.</Description>
+	</feat>
+	<feat>
+		<Name>Heavy Armor Master</Name>
+		<Description>+1 in Str. and bludgeoning, piercing, and slashing damage are reduced by 3 if you are wearing an heavy armor.</Description>
+	</feat>
+	<feat>
+		<Name>Infernal Constitution</Name>
+		<Description>+1 in Con., resistance to cold and poison damage, and you have advantage on saving throws against being poisoned.</Description>
+	</feat>
+	<feat>
+		<Name>Initiate of High Sorcery</Name>
+		<Description>You learn one wizard cantrip and two 1st-level spells from a determined list depending on your moon.</Description>
+	</feat>
+	<feat>
+		<Name>Inspiring Leader</Name>
+		<Description>Up to 6 creatures within 30 ft of you can gain temporary hp equal to your level + your Cha. modifier.</Description>
+	</feat>
+	<feat>
+		<Name>Keen Mind</Name>
+		<Description>+1 in Int., you know which way is north, when is the next sunrise/sunset, and recall any events within the past month.</Description>
+	</feat>
+	<feat>
+		<Name>Keenness of the Stone Giant</Name>
+		<Description>+1 in Str., Con., or Wis. ; darkvision 60 ft ; 1d10 force damage with a range of 60 ft + prone (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Knight of the Crown</Name>
+		<Description>+1 in Str., Dex., or Con., and one ally attacks as a reaction and deals +1d8 damage (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Knight of the Rose</Name>
+		<Description>+1 in Con., Wis., or Cha., and one creature gains [1d8 + your PB + this ability modificator] temporary hp (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Knight of the Sword</Name>
+		<Description>+1 in Int., Wis., or Cha., and you can frighten a target until the end of your next turn (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Lightly Armored</Name>
+		<Description>+1 in Str. or Dex. and you gain profociency with light armor.</Description>
+	</feat>
+	<feat>
+		<Name>Linguist</Name>
+		<Description>+1 in Int., you learn three languages, and you can ably create ciphers.</Description>
+	</feat>
+	<feat>
+		<Name>Lucky</Name>
+		<Description>You can reroll one d20 or force to reroll an attack roll against you (3/long rest).</Description>
+	</feat>
+	<feat>
+		<Name>Mage Slayer</Name>
+		<Description>You can use a reaction to make a melee attack against a spellcaster and advantage on saving throws against spell within 5 ft.</Description>
+	</feat>
+	<feat>
+		<Name>Magic Initiate</Name>
+		<Description>You learn two cantrips and one 1st-level spell from one class.</Description>
+	</feat>
+	<feat>
+		<Name>Martial Adept</Name>
+		<Description>You learn two maneuvers from Battle Master archetype and gain one superiority die (d6).</Description>
+	</feat>
+	<feat>
+		<Name>Medium Armor Master</Name>
+		<Description>No disadvantage to Stealth checks wearing medium armor and Dexterity bonus max to +3 instead of +2.</Description>
+	</feat>
+	<feat>
+		<Name>Medium Weapon Master</Name>
+		<Description>You can reroll an attack roll and you can choose to take -3 to attack roll to add +6 to damage with a medium weapon.</Description>
+	</feat>
+	<feat>
+		<Name>Metamagic Adept</Name>
+		<Description>You learn two metamagic options and gain 2 sorcery points.</Description>
+	</feat>
+	<feat>
+		<Name>Mobile</Name>
+		<Description>Your speed increase by 10 ft, you can Dash on difficult terrain without malus, and don't provoke opportunity attacks in melee.</Description>
+	</feat>
+	<feat>
+		<Name>Moderately Armored</Name>
+		<Description>+1 in Str. or Dex. and you gain proficiency with medium armor and shields.</Description>
+	</feat>
+	<feat>
+		<Name>Mounted Combatant</Name>
+		<Description>Advantage on melee attacks against unmounted creature and force an attack to target you instead of your mount.</Description>
+	</feat>
+	<feat>
+		<Name>Observant</Name>
+		<Description>+1 in Int. or Wis., you can read on lips, and you have a +5 bonus in passive Perception and passive Investigation.</Description>
+	</feat>
+	<feat>
+		<Name>Orcish Fury</Name>
+		<Description>+1 in Str. or Con., add one of the weapon's damage dice, and use a reaction to attack after using Relentless Endurance.</Description>
+	</feat>
+	<feat>
+		<Name>Outlands Envoy</Name>
+		<Description>+1 in one ability and you learn misty step and tongues (1/long rest).</Description>
+	</feat>
+	<feat>
+		<Name>Piercer</Name>
+		<Description>+1 in Str. or Dex., reroll one damage dice when you hit (piercing) and one additional damage dice in case of critical hit.</Description>
+	</feat>
+	<feat>
+		<Name>Planar Wanderer</Name>
+		<Description>Resistance to an energy and Int. check to force a portal to open or close for 1 hour (3d8 damage on a failed check).</Description>
+	</feat>
+	<feat>
+		<Name>Poisoner</Name>
+		<Description>Proficiency with poisoner's kit, apply as a bonus action and your attacks ignore resistance to poison damage.</Description>
+	</feat>
+	<feat>
+		<Name>Polearm Master</Name>
+		<Description>You can make an extra attack with a polearm weapon, and make an opportunity attack if a creature enter your reach.</Description>
+	</feat>
+	<feat>
+		<Name>Prodigy</Name>
+		<Description>You gain proficiency with one skill, one tool or one language, and you gain expertise with one skill.</Description>
+	</feat>
+	<feat>
+		<Name>Resilient</Name>
+		<Description>+1 in one ability and you gain proficiency in saving throws using this ability.</Description>
+	</feat>
+	<feat>
+		<Name>Righteous Heritor</Name>
+		<Description>+1 in one ability and reduce 1d10+PB to a creature as a reaction (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Ritual Caster</Name>
+		<Description>You have a ritual book with two 1-st level ritual spells from one class and you can later on add other ritual spells you found.</Description>
+	</feat>
+	<feat>
+		<Name>Rune Shaper</Name>
+		<Description>You learn comprehend languages and 1/2 PB 1st-level spells (cast with rune or spell slot).</Description>
+	</feat>
+	<feat>
+		<Name>Savage Attacker</Name>
+		<Description>You can reroll melee weapon attack damage once per turn.</Description>
+	</feat>
+	<feat>
+		<Name>Scion of the Outer Planes</Name>
+		<Description>Resistance to a damage type and ability to cast a cantrip, according to the type of plan chosen.</Description>
+	</feat>
+	<feat>
+		<Name>Second Chance</Name>
+		<Description>+1 in Dex., Con., or Cha., and you can force a creature to reroll its attack roll if it hits you.</Description>
+	</feat>
+	<feat>
+		<Name>Sentinel</Name>
+		<Description>A successful OA reduce creature's speed to 0 for this turn and possibility to make an OA even if the ennemy take Disengage.</Description>
+	</feat>
+	<feat>
+		<Name>Shadow Touched</Name>
+		<Description>+1 in Int., Wis., or Cha., and you learn invisibility and one 1st-level spell from illusion or necromancy school.</Description>
+	</feat>
+	<feat>
+		<Name>Sharpshooter</Name>
+		<Description>Your ranged attacks ignore some cover, no disavantage at long range, and possibility to take -5 to hit for +10 on ranged damage.</Description>
+	</feat>
+	<feat>
+		<Name>Shield Master</Name>
+		<Description>Attack also allows to shove, shield bonus to Dex. saving throws againts spells, and no 1/2 damage on successful saving throw.</Description>
+	</feat>
+	<feat>
+		<Name>Skill Expert</Name>
+		<Description>+1 in one ability, proficiency in one skill and expertise in one other in which you have proficiency.</Description>
+	</feat>
+	<feat>
+		<Name>Skilled</Name>
+		<Description>You gain proficiency with three skills or tools.</Description>
+	</feat>
+	<feat>
+		<Name>Skulker</Name>
+		<Description>Ranged weapon attack doesn't reveal your position and possibility to hide in a lighlly obscured area.</Description>
+	</feat>
+	<feat>
+		<Name>Slasher</Name>
+		<Description>+1 in Str. or Dex., reduce target's speed by 10 ft when you hit (slashing) and target has disadvantage on attacks rolls.</Description>
+	</feat>
+	<feat>
+		<Name>Soul of the Storm Giant</Name>
+		<Description>+1 in Str., Con., or Wis.; resistance to lightning and thunder damage ; disadvantage vs you ; 1/2 speed (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Spell Sniper</Name>
+		<Description>Offensive spell's range doubled, these spells ignore some cover, and you learn one offensive cantrip.</Description>
+	</feat>
+	<feat>
+		<Name>Squat Nimbleness</Name>
+		<Description>+1 in Str. or Dex., your speed increases by 5 ft, and proficiency and advantage to escape with Acrobatics or Athletics checks.</Description>
+	</feat>
+	<feat>
+		<Name>Squire of Solamnia</Name>
+		<Description>Advantage on weapon attacks rolls and +1d8 to damage (PB/day), and 5 ft of movement to mount or dismount.</Description>
+	</feat>
+	<feat>
+		<Name>Strike of the Giants</Name>
+		<Description>Extra damage and additional effect when hit with a weapon attack, according to the giant type chosen (PB/day).</Description>
+	</feat>
+	<feat>
+		<Name>Tavern Brawler</Name>
+		<Description>+1 in Str. or Con., proficiency with improvised weapons, d4 for unarmed strike, and grapple with a bonus action.</Description>
+	</feat>
+	<feat>
+		<Name>Telekinetic</Name>
+		<Description>+1 in Int., Wis., or Cha., you learn mage hand and you can try to telekinetically shove one creature (5 ft).</Description>
+	</feat>
+	<feat>
+		<Name>Telepathic</Name>
+		<Description>+1 in Int., Wis., or Cha., you can cast detect thoughts and you can speak telepathically to any creature within 60 ft.</Description>
+	</feat>
+	<feat>
+		<Name>Tough</Name>
+		<Description>Your hit point maximum increases by an amount equal to twice your level then by +2 at each level.</Description>
+	</feat>
+	<feat>
+		<Name>Vigor of the Hill Giant</Name>
+		<Description>+1 in Str., Con., or Wis. ; resistance to be prone ; Hit Dice to regain additional hit points equals to your Con. modifier + PB.</Description>
+	</feat>
+	<feat>
+		<Name>War Caster</Name>
+		<Description>You have advantage on saving throws to maintain concentration and you can cast some spells as part of an OA with a reaction.</Description>
+	</feat>
+	<feat>
+		<Name>Weapon Master</Name>
+		<Description>+1 in Str. or Dex. and you gain proficiency with four weapons.</Description>
+	</feat>
+	<feat>
+		<Name>Wood Elf Magic</Name>
+		<Description>You learn one druid cantrip and can cast the longstrider and pass without trace spells (1/long rest).</Description>
+	</feat>
+</feats_db>

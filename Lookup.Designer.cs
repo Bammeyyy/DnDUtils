@@ -30,14 +30,12 @@ namespace DnDUtils
         /// </summary>
         private void InitializeComponent()
         {
-            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             txtBox_Search = new TextBox();
             data_5eDB = new DataGridView();
             radio_Spells = new RadioButton();
             radio_Weps = new RadioButton();
             radio_Feats = new RadioButton();
+            radio_Items = new RadioButton();
             ((System.ComponentModel.ISupportInitialize)data_5eDB).BeginInit();
             SuspendLayout();
             // 
@@ -55,30 +53,15 @@ namespace DnDUtils
             data_5eDB.AllowUserToDeleteRows = false;
             data_5eDB.AllowUserToResizeColumns = false;
             data_5eDB.AllowUserToResizeRows = false;
-            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
-            data_5eDB.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = SystemColors.Control;
-            dataGridViewCellStyle2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            dataGridViewCellStyle2.ForeColor = SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.True;
-            data_5eDB.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            data_5eDB.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.None;
             data_5eDB.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = SystemColors.Window;
-            dataGridViewCellStyle3.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle3.ForeColor = SystemColors.ControlText;
-            dataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.True;
-            data_5eDB.DefaultCellStyle = dataGridViewCellStyle3;
+            data_5eDB.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
             data_5eDB.Location = new Point(12, 68);
             data_5eDB.Name = "data_5eDB";
             data_5eDB.ReadOnly = true;
             data_5eDB.RowHeadersVisible = false;
-            data_5eDB.Size = new Size(1392, 604);
+            data_5eDB.ScrollBars = ScrollBars.Vertical;
+            data_5eDB.Size = new Size(1490, 604);
             data_5eDB.TabIndex = 4;
             data_5eDB.ColumnSortModeChanged += data_5eDB_ColumnSortModeChanged;
             data_5eDB.SelectionChanged += data_5eDB_SelectionChanged;
@@ -116,18 +99,32 @@ namespace DnDUtils
             radio_Feats.UseVisualStyleBackColor = true;
             radio_Feats.CheckedChanged += radio_Feats_CheckedChanged;
             // 
+            // radio_Items
+            // 
+            radio_Items.AutoSize = true;
+            radio_Items.Location = new Point(211, 43);
+            radio_Items.Name = "radio_Items";
+            radio_Items.Size = new Size(54, 19);
+            radio_Items.TabIndex = 5;
+            radio_Items.Text = "Items";
+            radio_Items.UseVisualStyleBackColor = true;
+            radio_Items.CheckedChanged += radio_Items_CheckedChanged;
+            // 
             // Lookup
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1416, 684);
+            ClientSize = new Size(1514, 684);
+            Controls.Add(radio_Items);
             Controls.Add(radio_Feats);
             Controls.Add(radio_Weps);
             Controls.Add(radio_Spells);
             Controls.Add(data_5eDB);
             Controls.Add(txtBox_Search);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
             Name = "Lookup";
-            Text = "D&D Utilities";
+            Text = "Information Database";
             ((System.ComponentModel.ISupportInitialize)data_5eDB).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -140,5 +137,6 @@ namespace DnDUtils
         private RadioButton radio_Spells;
         private RadioButton radio_Weps;
         private RadioButton radio_Feats;
+        private RadioButton radio_Items;
     }
 }

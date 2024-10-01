@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DnDUtils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3056b6f40d36f1bf2a39667a7e32ecb583edf02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f00a92c3d8aa94ddc1d389de97908464966833")]
 [assembly: System.Reflection.AssemblyProductAttribute("DnDUtils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DnDUtils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,5 @@
+Q:\Documents\projects\DnDUtils\bin\Release\net8.0-windows\publish\DnDUtils.exe
+Q:\Documents\projects\DnDUtils\bin\Release\net8.0-windows\publish\DnDUtils.dll
+Q:\Documents\projects\DnDUtils\bin\Release\net8.0-windows\publish\DnDUtils.deps.json
+Q:\Documents\projects\DnDUtils\bin\Release\net8.0-windows\publish\DnDUtils.runtimeconfig.json
+Q:\Documents\projects\DnDUtils\bin\Release\net8.0-windows\publish\DnDUtils.pdb

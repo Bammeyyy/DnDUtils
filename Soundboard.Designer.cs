@@ -280,6 +280,8 @@
             Controls.Add(list_Memes);
             Controls.Add(list_Ambience);
             Controls.Add(list_Characters);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
             Name = "Soundboard";
             Text = "Soundboard";
             ResumeLayout(false);

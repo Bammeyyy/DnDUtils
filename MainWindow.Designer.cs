@@ -35,30 +35,33 @@
             // 
             // btn_initTracker
             // 
-            btn_initTracker.Location = new Point(80, 38);
+            btn_initTracker.Location = new Point(12, 12);
             btn_initTracker.Name = "btn_initTracker";
             btn_initTracker.Size = new Size(135, 77);
             btn_initTracker.TabIndex = 0;
+            btn_initTracker.TabStop = false;
             btn_initTracker.Text = "Initiative Tracker";
             btn_initTracker.UseVisualStyleBackColor = true;
             btn_initTracker.Click += btn_initTracker_Click;
             // 
             // btn_Lookup
             // 
-            btn_Lookup.Location = new Point(80, 150);
+            btn_Lookup.Location = new Point(153, 12);
             btn_Lookup.Name = "btn_Lookup";
-            btn_Lookup.Size = new Size(135, 69);
+            btn_Lookup.Size = new Size(135, 77);
             btn_Lookup.TabIndex = 1;
+            btn_Lookup.TabStop = false;
             btn_Lookup.Text = "Lookup";
             btn_Lookup.UseVisualStyleBackColor = true;
             btn_Lookup.Click += btn_Lookup_Click;
             // 
             // btn_Soundboard
             // 
-            btn_Soundboard.Location = new Point(80, 249);
+            btn_Soundboard.Location = new Point(294, 12);
             btn_Soundboard.Name = "btn_Soundboard";
-            btn_Soundboard.Size = new Size(135, 68);
+            btn_Soundboard.Size = new Size(135, 77);
             btn_Soundboard.TabIndex = 2;
+            btn_Soundboard.TabStop = false;
             btn_Soundboard.Text = "Soundboard";
             btn_Soundboard.UseVisualStyleBackColor = true;
             btn_Soundboard.Click += btn_Soundboard_Click;
@@ -67,12 +70,15 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(442, 100);
             Controls.Add(btn_Soundboard);
             Controls.Add(btn_Lookup);
             Controls.Add(btn_initTracker);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
             Name = "MainWindow";
-            Text = "Form1";
+            SizeGripStyle = SizeGripStyle.Hide;
+            Text = "D&D Utilities";
             ResumeLayout(false);
         }
 

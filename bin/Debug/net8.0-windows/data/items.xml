@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items_db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<Name>Adamantine Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>This armor converts any critical hit into a normal hit.</Description>
+	</item>
+	<item>
+		<Name>Alchemy Jug</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Ammunition +1, +2, or +3</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon (+1) rare (+2...</Rarity>
+		<Description>Ammunition +1, +2, or +3 (bonus to attack and damage rolls determined by the ammunition's rarity).</Description>
+	</item>
+	<item>
+		<Name>Amulet of Health</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Amulet of Proof against Detection and Location</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Amulet of the Planes</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Animated Shield</Name>
+		<Type>Armor</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Apparatus of Kwalish</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Armor +1, +2, or +3</Name>
+		<Type>Armor</Type>
+		<Rarity>rare (+1) very rare (+...</Rarity>
+		<Description>Armor +1, +2, or +3 (bonus to AC determined by the armor's rarity).</Description>
+	</item>
+	<item>
+		<Name>Armor of Gleaming</Name>
+		<Type>Armor</Type>
+		<Rarity>common</Rarity>
+		<Description>This armor never gets dirty.</Description>
+	</item>
+	<item>
+		<Name>Armor of Invulnerability</Name>
+		<Type>Armor</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to nonmagical damage ; immunity to nonmagical damage for 10 min (1/day).</Description>
+	</item>
+	<item>
+		<Name>Armor of Resistance</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to one type of damage.</Description>
+	</item>
+	<item>
+		<Name>Armor of Vulnerability</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to bludgeoning, piercing, or slashing damage ; vulnerability to two others. Cursed item.</Description>
+	</item>
+	<item>
+		<Name>Arrow of Slaying</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Arrow-Catching Shield</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+2 bonus to AC against ranged attacks.</Description>
+	</item>
+	<item>
+		<Name>Axe of the Dwarvish Lords</Name>
+		<Type>Weapon</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Bag of Beans</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Bag of Devouring</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Bag of Holding</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Bag of Tricks</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Bead of Force</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Bead of Nourishment</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This bead provides as much nourishment as 1 day of rations.</Description>
+	</item>
+	<item>
+		<Name>Bead of Refreshment</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This bead transforms up to a pint of the liquid into fresh drinking water.</Description>
+	</item>
+	<item>
+		<Name>Belt of Dwarvenkind</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Belt of Giant Strength</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rarity varies</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Berserker Axe</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Blackrazor</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; devour soul ; soul hunter, haste ; sentience ; consume souls.</Description>
+	</item>
+	<item>
+		<Name>Book of Exalted Deeds</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Book of Vile Darkness</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Boots of Elvenkind</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Boots of False Tracks</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>These boots leave traces of another type of humanoid of the same size.</Description>
+	</item>
+	<item>
+		<Name>Boots of Levitation</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Boots of Speed</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>These boots double the walking speed (10 min/day).</Description>
+	</item>
+	<item>
+		<Name>Boots of Striding and Springing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Boots of the Winterlands</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Bowl of Commanding Water Elementals</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Bracers of Archery</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+2 to damage rolls on ranged attacks made with longbow or shortbow.</Description>
+	</item>
+	<item>
+		<Name>Bracers of Defense</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+2 bonus to AC without armor nor shield.</Description>
+	</item>
+	<item>
+		<Name>Brazier of Commanding Fire Elementals</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Brooch of Shielding</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Broom of Flying</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Candle of Invocation</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Candle of the Deep</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This candle is not extinguished when immersed in water.</Description>
+	</item>
+	<item>
+		<Name>Cap of Water Breathing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>This cap allows you to breathe normally underwater.</Description>
+	</item>
+	<item>
+		<Name>Cape of the Mountebank</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Carpet of Flying</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Cast-off Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>common</Rarity>
+		<Description>This armor is doffed as an action.</Description>
+	</item>
+	<item>
+		<Name>Censer of Controlling Air Elementals</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Charlatan's Die</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This six-sided die allows you to control the result.</Description>
+	</item>
+	<item>
+		<Name>Chime of Opening</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Circlet of Blasting</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Cloak of Arachnida</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cloak of Billowing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This cloak can billow dramatically.</Description>
+	</item>
+	<item>
+		<Name>Cloak of Displacement</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cloak of Elvenkind</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Disadvantage on Wisdom (Perception) checks to see you ; advantage on Dexterity (Stealth) checks to hide.</Description>
+	</item>
+	<item>
+		<Name>Cloak of Invisibility</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This cloak makes you invisible for a maximum of 2 hours.</Description>
+	</item>
+	<item>
+		<Name>Cloak of Many Fashions</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This cloak can change style, color and quality.</Description>
+	</item>
+	<item>
+		<Name>Cloak of Protection</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cloak of the Bat</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cloak of the Manta Ray</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Clockwork Amulet</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This amulet allows to get 10 instead of rolling the d20 for an attack roll (1/day).</Description>
+	</item>
+	<item>
+		<Name>Clothes of Mending</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This outfit of traveler's clothes magically mends itself to counteract daily wear and tear.</Description>
+	</item>
+	<item>
+		<Name>Crystal Ball</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare or legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cube of Force</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Cubic Gate</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Daern's Instant Fortress</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Dagger of Venom</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Description>Weapon +1 ; Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute (1/day).</Description>
+	</item>
+	<item>
+		<Name>Dancing Sword</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Dark Shard Amulet</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast a warlock cantrip, subject to an Intelligence (Arcana) check.</Description>
+	</item>
+	<item>
+		<Name>Decanter of Endless Water</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Deck of Illusions</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Deck of Many Things</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Defender</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; this bonus can be partially transfered to the AC.</Description>
+	</item>
+	<item>
+		<Name>Demon Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+1 bonus to AC ; unarmed strikes +1, 1d8+1. Cursed item.</Description>
+	</item>
+	<item>
+		<Name>Dimensional Shackles</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Dragon Scale Mail</Name>
+		<Type>Armor</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+1 bonus to AC ; advantage on saving throws against the breath weapons of dragons ; resistance to one damage type.</Description>
+	</item>
+	<item>
+		<Name>Dragon Slayer</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Dread Helm</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This fearsome steel helm makes your eyes glow red.</Description>
+	</item>
+	<item>
+		<Name>Driftglobe</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Dust of Disappearance</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Dust of Dryness</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Dust of Sneezing and Choking</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Dwarven Plate</Name>
+		<Type>Armor</Type>
+		<Rarity>very rare</Rarity>
+		<Description>+2 bonus to AC ; reduce the distance you are moved by up to 10 ft.</Description>
+	</item>
+	<item>
+		<Name>Dwarven Thrower</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; +1d8 damage if thrown, and +2d8 on a giant ; flie back to hand.</Description>
+	</item>
+	<item>
+		<Name>Ear Horn of Hearing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This horn suppresses the effects of the deafened condition on you.</Description>
+	</item>
+	<item>
+		<Name>Efreeti Bottle</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Efreeti Chain</Name>
+		<Type>Armor</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+3 bonus to AC ; immunity to fire damage ; speak the primordial.</Description>
+	</item>
+	<item>
+		<Name>Elemental Gem</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Elixir of Health</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Cure any disease and remove blinded, deafened, paralyzed, and poisoned conditions.</Description>
+	</item>
+	<item>
+		<Name>Elven Chain</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Description>+1 bonus to AC ; automatically proficient with this armor.</Description>
+	</item>
+	<item>
+		<Name>Enduring Spellbook</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This spellbook cannot be damaged by fire, water or age.</Description>
+	</item>
+	<item>
+		<Name>Ersatz Eye</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This artificial eye replaces a real one that was lost or removed.</Description>
+	</item>
+	<item>
+		<Name>Eversmoking Bottle</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Eye and Hand of Vecna</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Eyes of Charming</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to cast charm person.</Description>
+	</item>
+	<item>
+		<Name>Eyes of Minute Seeing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant advantage on Intelligence (Investigation) checks that rely on sight.</Description>
+	</item>
+	<item>
+		<Name>Eyes of the Eagle</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant advantage on Wisdom (Perception) checks that rely on sight.</Description>
+	</item>
+	<item>
+		<Name>Figurine of Wondrous Power</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rarity by figurine</Rarity>
+	</item>
+	<item>
+		<Name>Flame Tongue</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Folding Boat</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Frost Brand</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+1d6 cold damage ; resistance to fire damage ; shed light in freezing temperatures ; extinguish nonmagical flames (1/h).</Description>
+	</item>
+	<item>
+		<Name>Gauntlets of Ogre Power</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Gem of Brightness</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Gem of Seeing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to gain truesight out to 120 ft for 10 min.</Description>
+	</item>
+	<item>
+		<Name>Giant Slayer</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Glamoured Studded Leather</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Description>+1 bonus to AC ; assume the appearance of a normal set of clothing or some other kind of armor.</Description>
+	</item>
+	<item>
+		<Name>Gloves of Missile Snaring</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Gloves of Swimming and Climbing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Gloves of Thievery</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks to pick locks.</Description>
+	</item>
+	<item>
+		<Name>Goggles of Night</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Hammer of Thunderbolts</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Hat of Disguise</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Hat of Vermin</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>3 charges to summon an ordinary bat, frog or rat for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Hat of Wizardry</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast a wizard cantrip, subject to an Intelligence (Arcana) check.</Description>
+	</item>
+	<item>
+		<Name>Headband of Intellect</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Helm of Brilliance</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Helm of Comprehending Languages</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Cast the comprehend languages at will.</Description>
+	</item>
+	<item>
+		<Name>Helm of Telepathy</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast the detect thoughts spell, then the suggestion spell (1/day).</Description>
+	</item>
+	<item>
+		<Name>Helm of Teleportation</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to cast the teleport spell.</Description>
+	</item>
+	<item>
+		<Name>Heward's Handy Haversack</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Heward's Handy Spice Pouch</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>10 charges to obtain food seasoning (salt, pepper, etc).</Description>
+	</item>
+	<item>
+		<Name>Holy Avenger</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Horn of Blasting</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Horn of Silent Alarm</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>4 charges so that only a specific creature hears the sounding horn.</Description>
+	</item>
+	<item>
+		<Name>Horn of Valhalla</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare (silver or brass)...</Rarity>
+	</item>
+	<item>
+		<Name>Horseshoes of a Zephyr</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Horseshoes of Speed</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Immovable Rod</Name>
+		<Type>Rod</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>This rod can be magically fixed in place and hold up to 8,000 pounds .</Description>
+	</item>
+	<item>
+		<Name>Instrument of Illusions</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This musical instrument creates harmless, illusory visual effects without sound.</Description>
+	</item>
+	<item>
+		<Name>Instrument of Scribing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to write a magical message on an object for 24 hours.</Description>
+	</item>
+	<item>
+		<Name>Instrument of the Bards</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rarity varies</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>These musical instruments allow you to cast certain spells.</Description>
+	</item>
+	<item>
+		<Name>Ioun Stone</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rarity varies</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Iron Bands of Bilarro</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Iron Flask</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Javelin of Lightning</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Keoghtom's Ointment</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>1d4+1 doses to regain 2d8+2 hp, cease to be poisoned, and be cured of any disease.</Description>
+	</item>
+	<item>
+		<Name>Lantern of Revealing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Lock of Trickery</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This magical lock imposes disadvantage to pick the lock.</Description>
+	</item>
+	<item>
+		<Name>Luck Blade</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Mace of Disruption</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+2d6 radiant damage on fiend or undead ; Wisdom saving throw or destroyed if less than 25 hp ; shed light.</Description>
+	</item>
+	<item>
+		<Name>Mace of Smiting</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Description>Weapon +1, +3 on a construct ; +7 bludgeoning damage on critical hit, +14 on a construct.</Description>
+	</item>
+	<item>
+		<Name>Mace of Terror</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Mantle of Spell Resistance</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Manual of Bodily Health</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Increase your Constitution score by 2 after studying the book.</Description>
+	</item>
+	<item>
+		<Name>Manual of Gainful Exercise</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Increase your Strength score by 2 after studying the book.</Description>
+	</item>
+	<item>
+		<Name>Manual of Golems</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Manual of Quickness of Action</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Increase your Dexterity score by 2 after studying the book.</Description>
+	</item>
+	<item>
+		<Name>Mariner's Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant a swimming speed equal to your walking speed.</Description>
+	</item>
+	<item>
+		<Name>Medallion of Thoughts</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Mirror of Life Trapping</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Mithral Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>This armor does not impose disadvantage on Dexterity (Stealth) checks.</Description>
+	</item>
+	<item>
+		<Name>Moon-touched Sword</Name>
+		<Type>Weapon</Type>
+		<Rarity>common</Rarity>
+		<Description>This sword creates bright light in a 15-ft radius and dim light for an additional 15 ft.</Description>
+	</item>
+	<item>
+		<Name>Moonblade</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +1 ; special property ; sentience ; protect elves.</Description>
+	</item>
+	<item>
+		<Name>Mystery Key</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This key has a 5% chance of unlocking a lock once.</Description>
+	</item>
+	<item>
+		<Name>Necklace of Adaptation</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Necklace of Fireballs</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Description>1d6+3 breads to cast fireball.</Description>
+	</item>
+	<item>
+		<Name>Necklace of Prayer Beads</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Nine Lives Stealer</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +2 ; 1d8+1 charges to Constitution saving throw or be slain instantly in case of critical hit.</Description>
+	</item>
+	<item>
+		<Name>Nolzur's Marvelous Pigments</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Oathbow</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>The target becomes a sworn enemy (advantage on attack rolls, +3d6) for 7 days. Disadvantage on attack rolls with other weapons.</Description>
+	</item>
+	<item>
+		<Name>Oil of Etherealness</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant the effect of the etherealness spell for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Oil of Sharpness</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>The coated ammunition is magical (+3) for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Oil of Slipperiness</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant the effect of the freedom of movement or grease spells for 8 hours.</Description>
+	</item>
+	<item>
+		<Name>Orb of Direction</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This orb helps determine which way is north.</Description>
+	</item>
+	<item>
+		<Name>Orb of Dragonkind</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Orb of Time</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This orb helps determine whether it is morning, afternoon, evening, or nighttime outside.</Description>
+	</item>
+	<item>
+		<Name>Pearl of Power</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Perfume of Bwitching</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>Grant advantage on all Charisma checks directed at humanoids of CR 1 for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Periapt of Health</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Periapt of Proof against Poison</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Periapt of Wound Closure</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Philter of Love</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>You become charmed for 1 hour by the first creature you see within 10 min after drinking this philter.</Description>
+	</item>
+	<item>
+		<Name>Pipe of Smoke Monsters</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This pipe exhales a puff of smoke that takes the form of a creature for a few seconds.</Description>
+	</item>
+	<item>
+		<Name>Pipes of Haunting</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Pipes of the Sewers</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Plate Armor of Etherealness</Name>
+		<Type>Armor</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant the effect of the etherealness spell for 10 min (1/day).</Description>
+	</item>
+	<item>
+		<Name>Pole of Angling</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This pole transforms into a complete fishing pole.</Description>
+	</item>
+	<item>
+		<Name>Pole of Collapsing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This 10-ft pole can be transformed into a 1-ft-long rod.</Description>
+	</item>
+	<item>
+		<Name>Portable Hole</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Pot of Awakening</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This pot allows you to grow a shrub which will transform into an awakened shrub after 30 days.</Description>
+	</item>
+	<item>
+		<Name>Potion of Animal Friendship</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Cast animal friendship for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Clairvoyance</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant the effect of the clairvoyance spell.</Description>
+	</item>
+	<item>
+		<Name>Potion of Climbing</Name>
+		<Type>Potion</Type>
+		<Rarity>common</Rarity>
+		<Description>Grant a climbing speed equal to your walking speed for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Diminution</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant the effect of the enlarge/reduce spell for 1d4 hours.</Description>
+	</item>
+	<item>
+		<Name>Potion of Fire Breath</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Dexterity saving throw or 4d6 fire damage (3 exhalations).</Description>
+	</item>
+	<item>
+		<Name>Potion of Flying</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Grant a flying speed equal to your walking speed for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Gaseous Form</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant the effect of the gaseous form spell for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Giant Strength</Name>
+		<Type>Potion</Type>
+		<Rarity>rarity varies</Rarity>
+		<Description>Change your Strength score for 1 hour, from 21 to 29 depending on the type of giant.</Description>
+	</item>
+	<item>
+		<Name>Potion of Growth</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant the "enlarge" effect of the enlarge/reduce spell for 1d4 hours.</Description>
+	</item>
+	<item>
+		<Name>Potion of Healing</Name>
+		<Type>Potion</Type>
+		<Rarity>rarity varies</Rarity>
+		<Description>Regain hp, from 2d4+2 to 10d4+20 depending on to the potion's rarity.</Description>
+	</item>
+	<item>
+		<Name>Potion of Heroism</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Give 10 temporary hp and you're under the effect of the bless spell for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Invisibility</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>You become invisible for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Invulnerability</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant resistance to all damage for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Potion of Longevity</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Your physical age is reduced by 1d6 + 6 years.</Description>
+	</item>
+	<item>
+		<Name>Potion of Mind Reading</Name>
+		<Type>Potion</Type>
+		<Rarity>rare</Rarity>
+		<Description>Grant the effect of the detect thoughts spell.</Description>
+	</item>
+	<item>
+		<Name>Potion of Poison</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Deal 3d6 poison damage. Constitution saving throw or be poisoned.</Description>
+	</item>
+	<item>
+		<Name>Potion of Resistance</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant resistance to one type of damage for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Potion of Speed</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Grant the effect of the haste spell for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Potion of Vitality</Name>
+		<Type>Potion</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Remove exhaustion and cure any disease or poison. You regain the maximum hp for any Hit Die you spend during 24 h.</Description>
+	</item>
+	<item>
+		<Name>Potion of Water Breathing</Name>
+		<Type>Potion</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant the ability to breathe underwater for 1 hour.</Description>
+	</item>
+	<item>
+		<Name>Quaal's Feather Token</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Quiver of Ehlonna</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Ring of Animal Influence</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Description>3 charges to cast animal friendship, fear or speak with animals.</Description>
+	</item>
+	<item>
+		<Name>Ring of Djinni Summoning</Name>
+		<Type>Ring</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Summon a friendly djinni for 1 hour (1/day).</Description>
+	</item>
+	<item>
+		<Name>Ring of Elemental Command</Name>
+		<Type>Ring</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Ring of Evasion</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to convert a failed Dexterity saving throw in success.</Description>
+	</item>
+	<item>
+		<Name>Ring of Feather Falling</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>No damage from falling.</Description>
+	</item>
+	<item>
+		<Name>Ring of Free Action</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Difficult terrain doesn't cost extra movement ; magic can't reduce your speed nor cause you to be paralyzed or restrained.</Description>
+	</item>
+	<item>
+		<Name>Ring of Invisibility</Name>
+		<Type>Ring</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>You become invisible until the ring is removed, or you attack or cast a spell.</Description>
+	</item>
+	<item>
+		<Name>Ring of Jumping</Name>
+		<Type>Ring</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast jump but only for yourself.</Description>
+	</item>
+	<item>
+		<Name>Ring of Mind Shielding</Name>
+		<Type>Ring</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Immune to magic that allows other creatures to read your thoughts.</Description>
+	</item>
+	<item>
+		<Name>Ring of Poison Resistance</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to poison.</Description>
+	</item>
+	<item>
+		<Name>Ring of Protection</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant a +1 bonus to AC and saving throws.</Description>
+	</item>
+	<item>
+		<Name>Ring of Regeneration</Name>
+		<Type>Ring</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Regain 1d6 hp every 10 minutes. If you lose a body part, the missing part regrows after 1d6+1 days.</Description>
+	</item>
+	<item>
+		<Name>Ring of Resistance</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to one damage type.</Description>
+	</item>
+	<item>
+		<Name>Ring of Shooting Stars</Name>
+		<Type>Ring</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Ring of Spell Storing</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This ring stores up to 5 levels worth of spells.</Description>
+	</item>
+	<item>
+		<Name>Ring of Spell Turning</Name>
+		<Type>Ring</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant advantage on saving throws against any spell that targets only you.</Description>
+	</item>
+	<item>
+		<Name>Ring of Swimming</Name>
+		<Type>Ring</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant a swimming speed of 40 ft.</Description>
+	</item>
+	<item>
+		<Name>Ring of Telekinesis</Name>
+		<Type>Ring</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast telekinesis.</Description>
+	</item>
+	<item>
+		<Name>Ring of the Ram</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to make a ranged attack with a +7 bonus and deal 2d10 force damage.</Description>
+	</item>
+	<item>
+		<Name>Ring of Three Wishes</Name>
+		<Type>Ring</Type>
+		<Rarity>legendary</Rarity>
+		<Description>3 charges to cast the wish spell.</Description>
+	</item>
+	<item>
+		<Name>Ring of Warmth</Name>
+		<Type>Ring</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to cold damage ; unharmed by temperatures as low as -50 degrees Fahrenheit.</Description>
+	</item>
+	<item>
+		<Name>Ring of Water Walking</Name>
+		<Type>Ring</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Allow to stand on and move across any liquid surface.</Description>
+	</item>
+	<item>
+		<Name>Ring of X-ray Vision</Name>
+		<Type>Ring</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Allow to see into and through solid matter for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Robe of Eyes</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Robe of Scintillating Colors</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Robe of Stars</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>+1 bonus to saving throws ; 6 charges to cast magic missile ; enter the Astral Plane.</Description>
+	</item>
+	<item>
+		<Name>Robe of the Archmagi</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Robe of Useful Items</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Rod of Absorption</Name>
+		<Type>Rod</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Rod of Alertness</Name>
+		<Type>Rod</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Advantage on Perception checks and initiative rolls ; cast 4 detection spells ; grant a +1 bonus to AC and saves (1/day).</Description>
+	</item>
+	<item>
+		<Name>Rod of Lordly Might</Name>
+		<Type>Rod</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Rod of Resurrection</Name>
+		<Type>Rod</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>5 charges to cast heal or resurrection.</Description>
+	</item>
+	<item>
+		<Name>Rod of Rulership</Name>
+		<Type>Rod</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Wisdom saving throw or be charmed for 8 h within 120 ft.</Description>
+	</item>
+	<item>
+		<Name>Rod of Security</Name>
+		<Type>Rod</Type>
+		<Rarity>very rare</Rarity>
+		<Description>Teleport up to 200 willing creatures to an extraplanar paradise. The duration depends of the number of creatures.</Description>
+	</item>
+	<item>
+		<Name>Rod of the Pact Keeper</Name>
+		<Type>Rod</Type>
+		<Rarity>uncommon (+1) rare (+2...</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Bonus to attack rolls and saving throws of your spells. Regain one spell slot (1/day).</Description>
+	</item>
+	<item>
+		<Name>Rope of Climbing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Rope of Entanglement</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Rope of Mending</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This rope can be cut into pieces and put back together.</Description>
+	</item>
+	<item>
+		<Name>Ruby of the War Mage</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This ruby allows you to use a simple or martial weapon as a spellcasting focus for your spells.</Description>
+	</item>
+	<item>
+		<Name>Saddle of the Cavalier</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>This saddle prevents you from falling off your horse against your will.</Description>
+	</item>
+	<item>
+		<Name>Scarab of Protection</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Scimitar of Speed</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +2 ; 1 extra attack per round as a bonus action.</Description>
+	</item>
+	<item>
+		<Name>Scroll of Protection</Name>
+		<Type>Scroll</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Sending Stones</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Cast sending with the bearer of the other stone.</Description>
+	</item>
+	<item>
+		<Name>Sentinel Shield</Name>
+		<Type>Armor</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>Grant advantage on initiative rolls and Wisdom (Perception) checks.</Description>
+	</item>
+	<item>
+		<Name>Shield of Expression</Name>
+		<Type>Armor</Type>
+		<Rarity>common</Rarity>
+		<Description>This shield shaped in the likeness of a face can alter the face's expression.</Description>
+	</item>
+	<item>
+		<Name>Shield of Missile Attraction</Name>
+		<Type>Armor</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Resistance to damage from ranged weapon attacks. Cursed item.</Description>
+	</item>
+	<item>
+		<Name>Shield, +1, +2, or +3</Name>
+		<Type>Armor</Type>
+		<Rarity>uncommon (+1) rare (+2...</Rarity>
+		<Description>Shield +1, +2, or +3 (bonus to AC determined by the shield's rarity).</Description>
+	</item>
+	<item>
+		<Name>Slippers of Spider Climbing</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Smoldering Armor</Name>
+		<Type>Armor</Type>
+		<Rarity>common</Rarity>
+		<Description>This armor emits wisps of harmless, odorless smoke.</Description>
+	</item>
+	<item>
+		<Name>Sovereign Glue</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Spell Scroll</Name>
+		<Type>Scroll</Type>
+		<Rarity>rarity varies</Rarity>
+	</item>
+	<item>
+		<Name>Spellguard Shield</Name>
+		<Type>Armor</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant advantage on saving throws against spells and magical effects ; spell attacks against you have disadvantage.</Description>
+	</item>
+	<item>
+		<Name>Sphere of Annihilation</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Staff of Adornment</Name>
+		<Type>Staff</Type>
+		<Rarity>common</Rarity>
+		<Description>Make an object float above the staff.</Description>
+	</item>
+	<item>
+		<Name>Staff of Birdcalls</Name>
+		<Type>Staff</Type>
+		<Rarity>common</Rarity>
+		<Description>10 charges to create a bird sound.</Description>
+	</item>
+	<item>
+		<Name>Staff of Charming</Name>
+		<Type>Staff</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>10 charges to cast charm person, command, or comprehend languages.</Description>
+	</item>
+	<item>
+		<Name>Staff of Fire</Name>
+		<Type>Staff</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>10 charges to cast burning hands, fireball, or wall of fire.</Description>
+	</item>
+	<item>
+		<Name>Staff of Flowers</Name>
+		<Type>Staff</Type>
+		<Rarity>common</Rarity>
+		<Description>10 charges to cause a flower to sprout.</Description>
+	</item>
+	<item>
+		<Name>Staff of Frost</Name>
+		<Type>Staff</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>10 charges to cast cone of cold, fog cloud, ice storm, or wall of ice.</Description>
+	</item>
+	<item>
+		<Name>Staff of Healing</Name>
+		<Type>Staff</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>10 charges to cast cure wounds, lesser restoration, or mass cure wounds.</Description>
+	</item>
+	<item>
+		<Name>Staff of Power</Name>
+		<Type>Staff</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Staff of Striking</Name>
+		<Type>Staff</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; 10 charges to deal an extra 1d6 force damage.</Description>
+	</item>
+	<item>
+		<Name>Staff of Swarming Insects</Name>
+		<Type>Staff</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>10 charges to cast giant insect or insect plague, or cause a swarm of harmless flying insects to spread out.</Description>
+	</item>
+	<item>
+		<Name>Staff of the Adder</Name>
+		<Type>Staff</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This staff can transform into a poisonous snake for 1 minute (1d6 piercing + 3d6 poison).</Description>
+	</item>
+	<item>
+		<Name>Staff of the Magi</Name>
+		<Type>Staff</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Staff of the Python</Name>
+		<Type>Staff</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This staff can transform into a giant constrictor snake under your control.</Description>
+	</item>
+	<item>
+		<Name>Staff of the Woodlands</Name>
+		<Type>Staff</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Staff of Thunder and Lightning</Name>
+		<Type>Staff</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Staff of Withering</Name>
+		<Type>Staff</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 charges to deal +2d10 necrotic damage, then Constitution saving throw or disadvantage for 1 h on Str or Con rolls.</Description>
+	</item>
+	<item>
+		<Name>Stone of Controlling Earth Elementals</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+	</item>
+	<item>
+		<Name>Stone of Good Luck (Luckstone)</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Sun Blade</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Sword of Answering</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; advantage on attack rolls ; damage ignores immunity or resistance.</Description>
+	</item>
+	<item>
+		<Name>Sword of Kas</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Sword of Life Stealing</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Sword of Sharpness</Name>
+		<Type>Weapon</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Sword of Vengeance</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +1. Cursed item.</Description>
+	</item>
+	<item>
+		<Name>Sword of Wounding</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Talisman of Pure Good</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Talisman of the Sphere</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Talisman of Ultimate Evil</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Talking Doll</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>This doll can speak up to six sentences when in conditions you specified.</Description>
+	</item>
+	<item>
+		<Name>Tankard of Sobriety</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This tankard allows you to drink alcohol without getting drunk.</Description>
+	</item>
+	<item>
+		<Name>Tentacle Rod</Name>
+		<Type>Rod</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>3 tentacles +9, reach 15 ft, 1d6 bludgeoning damage, then Constitution saving throw or speed is halved.</Description>
+	</item>
+	<item>
+		<Name>Tome of Clear Thought</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Tome of Leadership and Influence</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Tome of the Stilled Tongue</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Cast a spell from the spellbook without spending a spell slot and without using a verbal or somatic component (1/day).</Description>
+	</item>
+	<item>
+		<Name>Tome of Understanding</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>very rare</Rarity>
+	</item>
+	<item>
+		<Name>Trident of Fish Command</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Unbreakable Arrow</Name>
+		<Type>Weapon</Type>
+		<Rarity>common</Rarity>
+		<Description>This arrow can’t be broken, except when it is within an antimagic field.</Description>
+	</item>
+	<item>
+		<Name>Universal Solvent</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Veteran's Cane</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>common</Rarity>
+		<Description>This cane transforms into a regular longsword once.</Description>
+	</item>
+	<item>
+		<Name>Vicious Weapon</Name>
+		<Type>Weapon</Type>
+		<Rarity>rare</Rarity>
+		<Description>This weapon deals an extra 7 damage on critical hit.</Description>
+	</item>
+	<item>
+		<Name>Vorpal Sword</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Walloping Ammunition</Name>
+		<Type>Weapon</Type>
+		<Rarity>common</Rarity>
+		<Description>This ammunition requires a Strength saving throw or be knocked prone.</Description>
+	</item>
+	<item>
+		<Name>Wand of Binding</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast hold monster or hold person, or advantage to avoid being paralyzed or restrained.</Description>
+	</item>
+	<item>
+		<Name>Wand of Conducting</Name>
+		<Type>Wand</Type>
+		<Rarity>common</Rarity>
+		<Description>3 charges to create orchestral music.</Description>
+	</item>
+	<item>
+		<Name>Wand of Enemy Detection</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to know the direction of the nearest hostile creature within 60 ft for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Wand of Fear</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to command a creature to flee, or Wisdom saving throw in a cone for not being frightened for 1 minute.</Description>
+	</item>
+	<item>
+		<Name>Wand of Fireballs</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast the fireball spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Lightning Bolts</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast the lightning bolt spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Magic Detection</Name>
+		<Type>Wand</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>3 charges to cast the detect magic spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Magic Missiles</Name>
+		<Type>Wand</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>7 charges to cast the magic missile spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Orcus</Name>
+		<Type>Wand</Type>
+		<Rarity>artifact</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Wand of Paralysis</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to Constitution saving throw or be paralyzed for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Wand of Polymorph</Name>
+		<Type>Wand</Type>
+		<Rarity>very rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast the polymorph spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Pyrotechnics</Name>
+		<Type>Wand</Type>
+		<Rarity>common</Rarity>
+		<Description>7 charges to create a harmless burst of multicolored light.</Description>
+	</item>
+	<item>
+		<Name>Wand of Scowls</Name>
+		<Type>Wand</Type>
+		<Rarity>common</Rarity>
+		<Description>3 charges to force a humanoid to scowl for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Wand of Secrets</Name>
+		<Type>Wand</Type>
+		<Rarity>uncommon</Rarity>
+		<Description>3 charges to detect secret door or trap within 30 ft.</Description>
+	</item>
+	<item>
+		<Name>Wand of Smiles</Name>
+		<Type>Wand</Type>
+		<Rarity>common</Rarity>
+		<Description>3 charges to force a humanoid to smile for 1 min.</Description>
+	</item>
+	<item>
+		<Name>Wand of the War Mage +1, +2, or +3</Name>
+		<Type>Wand</Type>
+		<Rarity>uncommon (+1) rare (+2...</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Wand of Web</Name>
+		<Type>Wand</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast the web spell.</Description>
+	</item>
+	<item>
+		<Name>Wand of Wonder</Name>
+		<Type>Wand</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>7 charges to cast a spell or create an effect determined by a d100.</Description>
+	</item>
+	<item>
+		<Name>Wave</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; trident of fish command, weapon of warning ; sentience ; convert to an ocean god.</Description>
+	</item>
+	<item>
+		<Name>Weapon +1, +2, or +3</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon (+1) rare (+2...</Rarity>
+		<Description>Weapon +1, +2, or +3 (bonus to attack and damage rolls determined by the weapon's rarity).</Description>
+	</item>
+	<item>
+		<Name>Weapon of Warning</Name>
+		<Type>Weapon</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant advantage to initiative rolls and all allies within 30 ft cannot be surprised.</Description>
+	</item>
+	<item>
+		<Name>Well of Many Worlds</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>legendary</Rarity>
+	</item>
+	<item>
+		<Name>Whelm</Name>
+		<Type>Weapon</Type>
+		<Rarity>legendary</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Weapon +3 ; flies back ; shock wave ; detect evil and good, locate object ; sentience ; protect dwarves.</Description>
+	</item>
+	<item>
+		<Name>Wind Fan</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+	</item>
+	<item>
+		<Name>Winged Boots</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>uncommon</Rarity>
+		<Attunment>Attunement</Attunment>
+	</item>
+	<item>
+		<Name>Wings of Flying</Name>
+		<Type>Wondrous item</Type>
+		<Rarity>rare</Rarity>
+		<Attunment>Attunement</Attunment>
+		<Description>Grant a flying speed of 60 ft for 1 hour.</Description>
+	</item>
+</items_db>
