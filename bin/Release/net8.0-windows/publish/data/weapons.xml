@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weapons_db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<wep>
+		<Name>Battleaxe </Name>
+		<Damage>1d8 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>10 gp </Cost>
+		<Weight>4</Weight>
+		<Notes>Versatile (1d10)</Notes>
+	</wep>
+	<wep>
+		<Name>Blowgun </Name>
+		<Damage>1  </Damage>
+		<Type>PIERCING </Type>
+		<Range>25/100</Range>
+		<Cost>10 gp </Cost>
+		<Weight>1</Weight>
+		<Notes>Ammunition, loading</Notes>
+	</wep>
+	<wep>
+		<Name>Club </Name>
+		<Damage>1d4 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>1  sp </Cost>
+		<Weight>2</Weight>
+		<Notes>Light</Notes>
+	</wep>
+	<wep>
+		<Name>Crossbow, hand </Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Range>30/120</Range>
+		<Cost>75 gp </Cost>
+		<Weight>3</Weight>
+		<Notes>Ammunition, light, loading</Notes>
+	</wep>
+	<wep>
+		<Name>Crossbow, heavy </Name>
+		<Damage>1d10 </Damage>
+		<Type>PIERCING </Type>
+		<Range>100/400</Range>
+		<Cost>50 gp </Cost>
+		<Weight>18</Weight>
+		<Notes>Ammunition, heavy, loading, two-handed3</Notes>
+	</wep>
+	<wep>
+		<Name>Crossbow, light </Name>
+		<Damage>1d8 </Damage>
+		<Type>PIERCING </Type>
+		<Range>80/320</Range>
+		<Cost>25 gp </Cost>
+		<Weight>5</Weight>
+		<Notes>Ammunition, loading, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Dagger </Name>
+		<Damage>1d4</Damage>
+		<Type>PIERCING </Type>
+		<Range>20/60</Range>
+		<Cost>2 gp </Cost>
+		<Weight>1</Weight>
+		<Notes>Finesse, light, thrown</Notes>
+	</wep>
+	<wep>
+		<Name>Dart </Name>
+		<Damage>1d4 </Damage>
+		<Type>PIERCING </Type>
+		<Range>20/60</Range>
+		<Cost>5 cp </Cost>
+		<Weight>0.25</Weight>
+		<Notes>Finesse, thrown</Notes>
+	</wep>
+	<wep>
+		<Name>Flail </Name>
+		<Damage>1d8 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>10 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>—</Notes>
+	</wep>
+	<wep>
+		<Name>Glaive </Name>
+		<Damage>1d10 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>20 gp </Cost>
+		<Weight>6</Weight>
+		<Notes>Heavy, reach, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Greataxe </Name>
+		<Damage>1d12 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>30 gp </Cost>
+		<Weight>7</Weight>
+		<Notes>Heavy, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Greatclub</Name>
+		<Damage>1d8 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>2 sp </Cost>
+		<Weight>10</Weight>
+		<Notes>Two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Greatsword </Name>
+		<Damage>2d6 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>50 gp </Cost>
+		<Weight>6</Weight>
+		<Notes>Heavy, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Halberd </Name>
+		<Damage>1d10 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>20 gp </Cost>
+		<Weight>6</Weight>
+		<Notes>Heavy, reach, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Handaxe </Name>
+		<Damage>1d6 </Damage>
+		<Type>SLASHING </Type>
+		<Range>20/60</Range>
+		<Cost>5 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Light, thrown</Notes>
+	</wep>
+	<wep>
+		<Name>Javelin </Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Range>30/120</Range>
+		<Cost>5 sp </Cost>
+		<Weight>2</Weight>
+		<Notes>Thrown</Notes>
+	</wep>
+	<wep>
+		<Name>Lance </Name>
+		<Damage>1d12 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>10 gp </Cost>
+		<Weight>6</Weight>
+		<Notes>Reach, special</Notes>
+	</wep>
+	<wep>
+		<Name>Light hammer</Name>
+		<Damage>1d4 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Range>20/60</Range>
+		<Cost>2 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Light, thrown</Notes>
+	</wep>
+	<wep>
+		<Name>Longbow </Name>
+		<Damage>1d8 </Damage>
+		<Type>PIERCING </Type>
+		<Range>150/600</Range>
+		<Cost>50 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Ammunition, heavy, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Longsword </Name>
+		<Damage>1d8 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>15 gp </Cost>
+		<Weight>3</Weight>
+		<Notes>Versatile (1d10)</Notes>
+	</wep>
+	<wep>
+		<Name>Mace </Name>
+		<Damage>1d6 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>5 gp </Cost>
+		<Weight>4</Weight>
+		<Notes>—</Notes>
+	</wep>
+	<wep>
+		<Name>Maul </Name>
+		<Damage>2d6 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>10 gp </Cost>
+		<Weight>10</Weight>
+		<Notes>Heavy, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Morningstar </Name>
+		<Damage>1d8 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>15 gp </Cost>
+		<Weight>4</Weight>
+		<Notes>—</Notes>
+	</wep>
+	<wep>
+		<Name>Net</Name>
+		<Type>— </Type>
+		<Cost>1  gp </Cost>
+		<Weight>3</Weight>
+	</wep>
+	<wep>
+		<Name>Pike</Name>
+		<Damage>1d10 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>5 gp </Cost>
+		<Weight>18</Weight>
+		<Notes>Heavy, reach, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Quarterstaff </Name>
+		<Damage>1d6 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>2 sp </Cost>
+		<Weight>4</Weight>
+		<Notes>Versatile (1d8)</Notes>
+	</wep>
+	<wep>
+		<Name>Rapier </Name>
+		<Damage>1d8 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>25 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Finesse</Notes>
+	</wep>
+	<wep>
+		<Name>Scimitar </Name>
+		<Damage>1d6 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>25 gp </Cost>
+		<Weight>3</Weight>
+		<Notes>Finesse, light</Notes>
+	</wep>
+	<wep>
+		<Name>Shortbow </Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Range>80/320</Range>
+		<Cost>25gp</Cost>
+		<Weight>2</Weight>
+		<Notes>Ammunition, two-handed</Notes>
+	</wep>
+	<wep>
+		<Name>Shortsword </Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>10 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Finesse, light</Notes>
+	</wep>
+	<wep>
+		<Name>Sickle</Name>
+		<Damage>1d4 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>1  gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Light</Notes>
+	</wep>
+	<wep>
+		<Name>Sling </Name>
+		<Damage>1d4 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Range>30/120</Range>
+		<Cost>1  sp </Cost>
+		<Weight>0</Weight>
+		<Notes>Ammunition</Notes>
+	</wep>
+	<wep>
+		<Name>Spear</Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>1  gp </Cost>
+		<Weight>3</Weight>
+		<Notes>Thrown (range 20/60), versatile (1d8) </Notes>
+	</wep>
+	<wep>
+		<Name>Trident</Name>
+		<Damage>1d6 </Damage>
+		<Type>PIERCING </Type>
+		<Range>20/60</Range>
+		<Cost>5 gp </Cost>
+		<Weight>4</Weight>
+		<Notes>Thrown, versatile (1d8)</Notes>
+	</wep>
+	<wep>
+		<Name>Unarmed strike </Name>
+		<Damage>1</Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>0 gp</Cost>
+		<Weight>0</Weight>
+		<Notes>—</Notes>
+	</wep>
+	<wep>
+		<Name>War pick </Name>
+		<Damage>1d8 </Damage>
+		<Type>PIERCING </Type>
+		<Cost>5 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>—</Notes>
+	</wep>
+	<wep>
+		<Name>Warhammer </Name>
+		<Damage>1d8 </Damage>
+		<Type>BLUDGEONING </Type>
+		<Cost>15 gp </Cost>
+		<Weight>2</Weight>
+		<Notes>Versatile (1d10)</Notes>
+	</wep>
+	<wep>
+		<Name>Whip </Name>
+		<Damage>1d4 </Damage>
+		<Type>SLASHING </Type>
+		<Cost>2 gp </Cost>
+		<Weight>3</Weight>
+		<Notes>Finesse, reach</Notes>
+	</wep>
+</weapons_db>
