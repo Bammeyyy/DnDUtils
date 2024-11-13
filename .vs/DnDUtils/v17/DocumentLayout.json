@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Q:\\Documents\\projects\\DnDUtils\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\projects\\DnDUtils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|D:\\projects\\DnDUtils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitTracker.cs [Design]",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.cs",
+              "RelativeDocumentMoniker": "InitTracker.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.cs [Design]",
+              "RelativeToolTip": "InitTracker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:41:14.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitTracker.cs",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.cs",
+              "RelativeDocumentMoniker": "InitTracker.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.cs",
+              "RelativeToolTip": "InitTracker.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwEEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:41:32.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InitTracker.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.Designer.cs",
+              "RelativeDocumentMoniker": "InitTracker.Designer.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.Designer.cs",
+              "RelativeToolTip": "InitTracker.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:41:08.162Z"
             }
           ]
         }

@@ -30,26 +30,40 @@ namespace DnDUtils
 
         private void btn_addToInitOrder_Click(object sender, EventArgs e)
         {
+            //Check for null textbox and if already in list
             if (txtBox_Name.Text != "" && !initOrder.ContainsKey(txtBox_Name.Text))
             {
+                //if combat is not active
                 if (!active)
                 {
+                    //create key/value pairs for new entry
                     var newEntry = new KeyValuePair<string, int>(txtBox_Name.Text, (int)num_InitValue.Value);
-                    string newEntryString = String.Format("{0:00}", newEntry.Value) + " - " + newEntry.Key;
+                    var newEntryHP = new KeyValuePair<string, int>(txtBox_Name.Text, (int)num_HPValue.Value);
+                    string nameHP = txtBox_Name.Text + " - " + num_HPValue.ToString() + "hp";
+                    //formatting name to string with leading init value and trailing HP value
+                    string newEntryString = String.Format("{0:00}", newEntry.Value) + " - " + newEntry.Key + " - " + String.Format("{0:000}", newEntryHP.Value) + "hp";
                     lstBox_Init.Items.Add(newEntryString);
-                    initOrder.Add(txtBox_Name.Text, (int)num_InitValue.Value);
+                    initOrder.Add(newEntry.Key + " - " + String.Format("{0:000}", newEntryHP.Value) + "hp", newEntry.Value);
                     txtBox_Name.Clear();
                     num_InitValue.Value = 0;
+                    num_Dmg.Value = 0;
                 }
+                //if combat is active
                 else
                 {
                     string currentTurn = lstBox_Init.SelectedItem.ToString();
                     currentTurn = currentTurn.Remove(0, 5);
+                    currentTurn = currentTurn.Remove (currentTurn.Length - 5, 5);
                     var newEntry = new KeyValuePair<string, int>(txtBox_Name.Text, (int)num_InitValue.Value);
-                    string newEntryString = String.Format("{0:00}", newEntry.Value) + " - " + newEntry.Key;
-                    initOrder.Add(txtBox_Name.Text, (int)num_InitValue.Value);
+                    var newEntryHP = new KeyValuePair<string, int>(txtBox_Name.Text, (int)num_HPValue.Value);
+                    string nameHP = txtBox_Name.Text + " - " + num_HPValue.ToString() + "hp";
+                    //formatting name to string with leading init value and trailing HP value
+                    string newEntryString = String.Format("{0:00}", newEntry.Value) + " - " + newEntry.Key + " - " + String.Format("{0:000}", newEntryHP.Value) + "hp";
+                    lstBox_Init.Items.Add(newEntryString);
+                    initOrder.Add(newEntry.Key + " - " + String.Format("{0:000}", newEntryHP.Value) + "hp", newEntry.Value);
                     txtBox_Name.Clear();
                     num_InitValue.Value = 0;
+                    num_Dmg.Value = 0;
                     var sortedInitOrder = initOrder.OrderByDescending(x => x.Value);
                     lstBox_Init.Items.Clear();
                     foreach (KeyValuePair<string, int> entry in sortedInitOrder)
@@ -113,7 +127,7 @@ namespace DnDUtils
                     currentRound++;
                     lbl_RoundNum.Text = currentRound.ToString();
                 }
-                
+
                 stopWatch.Restart();
             }
         }
@@ -122,8 +136,12 @@ namespace DnDUtils
         {
             string toRemove = lstBox_Init.SelectedItem.ToString();
             toRemove = toRemove.Remove(0, 5);
+            toRemove = toRemove.Remove(toRemove.Length - 8, 8);
             lstBox_Init.Items.RemoveAt(currentTurnNum);
             initOrder.Remove(toRemove);
+            //Console.WriteLine(toRemove);
+            //Console.WriteLine(initOrder.Keys);
+            //Console.WriteLine(initOrder.Values);
         }
 
         private void btn_Reset_Click(object sender, EventArgs e)
@@ -133,6 +151,7 @@ namespace DnDUtils
             {
                 toRemove = item.ToString();
                 toRemove = toRemove.Remove(0, 5);
+                toRemove = toRemove.Remove(toRemove.Length - 8, 8);
                 initOrder.Remove(toRemove);
             }
 
@@ -143,7 +162,7 @@ namespace DnDUtils
 
         private void lstBox_Init_SelectedIndexChanged(object sender, EventArgs e)
         {
-            currentTurnNum = lstBox_Init.SelectedIndex;
+            //currentTurnNum = lstBox_Init.SelectedIndex;
         }
 
         private void updateTime(object sender, EventArgs e)
@@ -163,11 +182,18 @@ namespace DnDUtils
 
         private void stopTimer()
         {
-            stopWatch.Stop();
-            stopWatch.Reset();
+            if (stopWatch.IsRunning)
+            {
+                stopWatch.Stop();
+                stopWatch.Reset();
+            }
 
-            timer.Stop();
-            timer.Dispose();
+            if (timer != null)
+            {
+                timer.Stop();
+                timer.Dispose();
+            }
+
             lbl_Timer.Text = "00:00";
         }
 
@@ -177,6 +203,63 @@ namespace DnDUtils
             currentRound = 1;
             lbl_RoundNum.Text = "";
             active = false;
+        }
+
+        private void btn_Dmg_Click(object sender, EventArgs e)
+        {
+            if (lstBox_Init.SelectedItem != null)
+            {
+                string currentPlayer = lstBox_Init.SelectedItem.ToString();
+                string current = currentPlayer.Remove(currentPlayer.Length - 2, 2);
+                current = current.Remove(0, current.Length - 3);
+                int currentHP = int.Parse(current);
+                currentHP = currentHP - (int)num_Dmg.Value;
+                current = currentPlayer.Remove(currentPlayer.Length - 5, 5);
+                current = current + String.Format("{0:000}", currentHP) + "hp";
+                lstBox_Init.Items.Insert(lstBox_Init.SelectedIndex, current);
+                lstBox_Init.Items.Remove(lstBox_Init.SelectedItem);
+                lstBox_Init.SelectedIndex = currentTurnNum;
+                num_Dmg.Value = 0;
+            }
+        }
+
+        private void btn_Heal_Click(object sender, EventArgs e)
+        {
+            if (lstBox_Init.SelectedItem != null)
+            {
+                string currentPlayer = lstBox_Init.SelectedItem.ToString();
+                string current = currentPlayer.Remove(currentPlayer.Length - 2, 2);
+                current = current.Remove(0, current.Length - 3);
+                int currentHP = int.Parse(current);
+                currentHP = currentHP + (int)num_Dmg.Value;
+                current = currentPlayer.Remove(currentPlayer.Length - 5, 5);
+                current = current + String.Format("{0:000}", currentHP) + "hp";
+                lstBox_Init.Items.Insert(lstBox_Init.SelectedIndex, current);
+                lstBox_Init.Items.Remove(lstBox_Init.SelectedItem);
+                lstBox_Init.SelectedIndex = currentTurnNum;
+                num_Dmg.Value = 0;
+            }
+        }
+
+        private void btn_Prev_Click(object sender, EventArgs e)
+        {
+            if (active)
+            {
+                if (currentTurnNum > 0)
+                {
+                    currentTurnNum--;
+                    lstBox_Init.SelectedIndex = currentTurnNum;
+                }
+                else
+                {
+                    currentTurnNum = lstBox_Init.Items.Count - 1;
+                    lstBox_Init.SelectedIndex = currentTurnNum;
+                    currentRound--;
+                    lbl_RoundNum.Text = currentRound.ToString();
+                }
+
+                stopWatch.Restart();
+            }
         }
     }
 }
