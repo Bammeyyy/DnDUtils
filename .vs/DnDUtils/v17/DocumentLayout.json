@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\projects\\DnDUtils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|D:\\projects\\DnDUtils\\inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:inittracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|d:\\projects\\dndutils\\soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98092FF2-BF7D-40C8-8EB1-F20B188CCACD}|DnDUtils.csproj|solutionrelative:soundboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InitTracker.cs [Design]",
-              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.cs",
-              "RelativeDocumentMoniker": "InitTracker.cs",
-              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.cs [Design]",
-              "RelativeToolTip": "InitTracker.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Soundboard.cs [Design]",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\Soundboard.cs",
+              "RelativeDocumentMoniker": "Soundboard.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\Soundboard.cs [Design]",
+              "RelativeToolTip": "Soundboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T16:41:14.473Z",
+              "WhenOpened": "2025-02-07T10:55:09.973Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InitTracker.cs",
-              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.cs",
-              "RelativeDocumentMoniker": "InitTracker.cs",
-              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.cs",
-              "RelativeToolTip": "InitTracker.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwEEAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Soundboard.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\Soundboard.Designer.cs",
+              "RelativeDocumentMoniker": "Soundboard.Designer.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\Soundboard.Designer.cs",
+              "RelativeToolTip": "Soundboard.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAIwJoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T16:41:32.851Z",
+              "WhenOpened": "2025-02-07T10:54:35.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InitTracker.Designer.cs",
-              "DocumentMoniker": "D:\\projects\\DnDUtils\\InitTracker.Designer.cs",
-              "RelativeDocumentMoniker": "InitTracker.Designer.cs",
-              "ToolTip": "D:\\projects\\DnDUtils\\InitTracker.Designer.cs",
-              "RelativeToolTip": "InitTracker.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Soundboard.cs",
+              "DocumentMoniker": "D:\\projects\\DnDUtils\\Soundboard.cs",
+              "RelativeDocumentMoniker": "Soundboard.cs",
+              "ToolTip": "D:\\projects\\DnDUtils\\Soundboard.cs",
+              "RelativeToolTip": "Soundboard.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T16:41:08.162Z"
+              "WhenOpened": "2025-02-07T10:52:41.958Z",
+              "EditorCaption": ""
             }
           ]
         }

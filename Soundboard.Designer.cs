@@ -38,33 +38,27 @@
             lbl_Memes = new Label();
             list_Memes = new ComboBox();
             btn_PlayMemes = new Button();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
-            button7 = new Button();
-            button8 = new Button();
-            button9 = new Button();
-            button10 = new Button();
-            button11 = new Button();
-            button12 = new Button();
+            btn_Wow = new Button();
+            btn_Crickets = new Button();
+            btn_FBI = new Button();
+            btn_Bruh = new Button();
             SuspendLayout();
             // 
             // list_Characters
             // 
             list_Characters.FormattingEnabled = true;
-            list_Characters.Location = new Point(12, 27);
+            list_Characters.Location = new Point(14, 36);
+            list_Characters.Margin = new Padding(3, 4, 3, 4);
             list_Characters.Name = "list_Characters";
-            list_Characters.Size = new Size(121, 23);
+            list_Characters.Size = new Size(138, 28);
             list_Characters.TabIndex = 1;
             // 
             // btn_PlayCharacters
             // 
-            btn_PlayCharacters.Location = new Point(148, 27);
+            btn_PlayCharacters.Location = new Point(169, 36);
+            btn_PlayCharacters.Margin = new Padding(3, 4, 3, 4);
             btn_PlayCharacters.Name = "btn_PlayCharacters";
-            btn_PlayCharacters.Size = new Size(75, 23);
+            btn_PlayCharacters.Size = new Size(86, 31);
             btn_PlayCharacters.TabIndex = 2;
             btn_PlayCharacters.Text = "Play";
             btn_PlayCharacters.UseVisualStyleBackColor = true;
@@ -74,9 +68,10 @@
             // 
             btn_Stop.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Stop.ForeColor = SystemColors.HotTrack;
-            btn_Stop.Location = new Point(260, 27);
+            btn_Stop.Location = new Point(297, 36);
+            btn_Stop.Margin = new Padding(3, 4, 3, 4);
             btn_Stop.Name = "btn_Stop";
-            btn_Stop.Size = new Size(250, 272);
+            btn_Stop.Size = new Size(286, 363);
             btn_Stop.TabIndex = 3;
             btn_Stop.Text = "STOP";
             btn_Stop.UseVisualStyleBackColor = true;
@@ -85,34 +80,36 @@
             // lbl_KillingBlows
             // 
             lbl_KillingBlows.AutoSize = true;
-            lbl_KillingBlows.Location = new Point(12, 9);
+            lbl_KillingBlows.Location = new Point(14, 12);
             lbl_KillingBlows.Name = "lbl_KillingBlows";
-            lbl_KillingBlows.Size = new Size(74, 15);
+            lbl_KillingBlows.Size = new Size(116, 20);
             lbl_KillingBlows.TabIndex = 4;
-            lbl_KillingBlows.Text = "Killing Blows";
+            lbl_KillingBlows.Text = "Character Songs";
             // 
             // lbl_Ambience
             // 
             lbl_Ambience.AutoSize = true;
-            lbl_Ambience.Location = new Point(12, 62);
+            lbl_Ambience.Location = new Point(14, 83);
             lbl_Ambience.Name = "lbl_Ambience";
-            lbl_Ambience.Size = new Size(61, 15);
+            lbl_Ambience.Size = new Size(76, 20);
             lbl_Ambience.TabIndex = 5;
             lbl_Ambience.Text = "Ambience";
             // 
             // list_Ambience
             // 
             list_Ambience.FormattingEnabled = true;
-            list_Ambience.Location = new Point(12, 80);
+            list_Ambience.Location = new Point(14, 107);
+            list_Ambience.Margin = new Padding(3, 4, 3, 4);
             list_Ambience.Name = "list_Ambience";
-            list_Ambience.Size = new Size(121, 23);
+            list_Ambience.Size = new Size(138, 28);
             list_Ambience.TabIndex = 1;
             // 
             // btn_PlayAmbience
             // 
-            btn_PlayAmbience.Location = new Point(148, 80);
+            btn_PlayAmbience.Location = new Point(169, 107);
+            btn_PlayAmbience.Margin = new Padding(3, 4, 3, 4);
             btn_PlayAmbience.Name = "btn_PlayAmbience";
-            btn_PlayAmbience.Size = new Size(75, 23);
+            btn_PlayAmbience.Size = new Size(86, 31);
             btn_PlayAmbience.TabIndex = 2;
             btn_PlayAmbience.Text = "Play";
             btn_PlayAmbience.UseVisualStyleBackColor = true;
@@ -121,155 +118,85 @@
             // lbl_Memes
             // 
             lbl_Memes.AutoSize = true;
-            lbl_Memes.Location = new Point(12, 140);
+            lbl_Memes.Location = new Point(14, 187);
             lbl_Memes.Name = "lbl_Memes";
-            lbl_Memes.Size = new Size(46, 15);
+            lbl_Memes.Size = new Size(57, 20);
             lbl_Memes.TabIndex = 6;
             lbl_Memes.Text = "Memes";
             // 
             // list_Memes
             // 
             list_Memes.FormattingEnabled = true;
-            list_Memes.Location = new Point(11, 158);
+            list_Memes.Location = new Point(13, 211);
+            list_Memes.Margin = new Padding(3, 4, 3, 4);
             list_Memes.Name = "list_Memes";
-            list_Memes.Size = new Size(121, 23);
+            list_Memes.Size = new Size(138, 28);
             list_Memes.TabIndex = 1;
             // 
             // btn_PlayMemes
             // 
-            btn_PlayMemes.Location = new Point(148, 158);
+            btn_PlayMemes.Location = new Point(169, 211);
+            btn_PlayMemes.Margin = new Padding(3, 4, 3, 4);
             btn_PlayMemes.Name = "btn_PlayMemes";
-            btn_PlayMemes.Size = new Size(75, 23);
+            btn_PlayMemes.Size = new Size(86, 31);
             btn_PlayMemes.TabIndex = 2;
             btn_PlayMemes.Text = "Play";
             btn_PlayMemes.UseVisualStyleBackColor = true;
             btn_PlayMemes.Click += btn_PlayMemes_Click;
             // 
-            // button1
+            // btn_Wow
             // 
-            button1.Location = new Point(12, 187);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 7;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btn_Wow.Location = new Point(14, 249);
+            btn_Wow.Margin = new Padding(3, 4, 3, 4);
+            btn_Wow.Name = "btn_Wow";
+            btn_Wow.Size = new Size(86, 31);
+            btn_Wow.TabIndex = 7;
+            btn_Wow.Text = "Wow";
+            btn_Wow.UseVisualStyleBackColor = true;
+            btn_Wow.Click += btn_Wow_Click;
             // 
-            // button2
+            // btn_Crickets
             // 
-            button2.Location = new Point(12, 216);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 7;
-            button2.Text = "button1";
-            button2.UseVisualStyleBackColor = true;
+            btn_Crickets.Location = new Point(14, 288);
+            btn_Crickets.Margin = new Padding(3, 4, 3, 4);
+            btn_Crickets.Name = "btn_Crickets";
+            btn_Crickets.Size = new Size(86, 31);
+            btn_Crickets.TabIndex = 7;
+            btn_Crickets.Text = "Crickets";
+            btn_Crickets.UseVisualStyleBackColor = true;
+            btn_Crickets.Click += btn_Crickets_Click;
             // 
-            // button3
+            // btn_FBI
             // 
-            button3.Location = new Point(11, 247);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 7;
-            button3.Text = "button1";
-            button3.UseVisualStyleBackColor = true;
+            btn_FBI.Location = new Point(13, 329);
+            btn_FBI.Margin = new Padding(3, 4, 3, 4);
+            btn_FBI.Name = "btn_FBI";
+            btn_FBI.Size = new Size(86, 31);
+            btn_FBI.TabIndex = 7;
+            btn_FBI.Text = "FBI";
+            btn_FBI.UseVisualStyleBackColor = true;
+            btn_FBI.Click += btn_FBI_Click;
             // 
-            // button4
+            // btn_Bruh
             // 
-            button4.Location = new Point(11, 276);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 7;
-            button4.Text = "button1";
-            button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            button5.Location = new Point(93, 187);
-            button5.Name = "button5";
-            button5.Size = new Size(75, 23);
-            button5.TabIndex = 7;
-            button5.Text = "button1";
-            button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            button6.Location = new Point(93, 216);
-            button6.Name = "button6";
-            button6.Size = new Size(75, 23);
-            button6.TabIndex = 7;
-            button6.Text = "button1";
-            button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            button7.Location = new Point(92, 247);
-            button7.Name = "button7";
-            button7.Size = new Size(75, 23);
-            button7.TabIndex = 7;
-            button7.Text = "button1";
-            button7.UseVisualStyleBackColor = true;
-            // 
-            // button8
-            // 
-            button8.Location = new Point(92, 276);
-            button8.Name = "button8";
-            button8.Size = new Size(75, 23);
-            button8.TabIndex = 7;
-            button8.Text = "button1";
-            button8.UseVisualStyleBackColor = true;
-            // 
-            // button9
-            // 
-            button9.Location = new Point(174, 187);
-            button9.Name = "button9";
-            button9.Size = new Size(75, 23);
-            button9.TabIndex = 7;
-            button9.Text = "button1";
-            button9.UseVisualStyleBackColor = true;
-            // 
-            // button10
-            // 
-            button10.Location = new Point(174, 216);
-            button10.Name = "button10";
-            button10.Size = new Size(75, 23);
-            button10.TabIndex = 7;
-            button10.Text = "button1";
-            button10.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            button11.Location = new Point(173, 247);
-            button11.Name = "button11";
-            button11.Size = new Size(75, 23);
-            button11.TabIndex = 7;
-            button11.Text = "button1";
-            button11.UseVisualStyleBackColor = true;
-            // 
-            // button12
-            // 
-            button12.Location = new Point(173, 276);
-            button12.Name = "button12";
-            button12.Size = new Size(75, 23);
-            button12.TabIndex = 7;
-            button12.Text = "button1";
-            button12.UseVisualStyleBackColor = true;
+            btn_Bruh.Location = new Point(13, 368);
+            btn_Bruh.Margin = new Padding(3, 4, 3, 4);
+            btn_Bruh.Name = "btn_Bruh";
+            btn_Bruh.Size = new Size(86, 31);
+            btn_Bruh.TabIndex = 7;
+            btn_Bruh.Text = "Bruh";
+            btn_Bruh.UseVisualStyleBackColor = true;
+            btn_Bruh.Click += btn_Bruh_Click;
             // 
             // Soundboard
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(532, 312);
-            Controls.Add(button12);
-            Controls.Add(button11);
-            Controls.Add(button8);
-            Controls.Add(button7);
-            Controls.Add(button10);
-            Controls.Add(button4);
-            Controls.Add(button6);
-            Controls.Add(button9);
-            Controls.Add(button3);
-            Controls.Add(button5);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            ClientSize = new Size(608, 416);
+            Controls.Add(btn_Bruh);
+            Controls.Add(btn_FBI);
+            Controls.Add(btn_Crickets);
+            Controls.Add(btn_Wow);
             Controls.Add(lbl_Memes);
             Controls.Add(lbl_Ambience);
             Controls.Add(lbl_KillingBlows);
@@ -281,6 +208,7 @@
             Controls.Add(list_Ambience);
             Controls.Add(list_Characters);
             FormBorderStyle = FormBorderStyle.FixedDialog;
+            Margin = new Padding(3, 4, 3, 4);
             MaximizeBox = false;
             Name = "Soundboard";
             Text = "Soundboard";
@@ -300,17 +228,9 @@
         private Label lbl_Memes;
         private ComboBox list_Memes;
         private Button btn_PlayMemes;
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
-        private Button button5;
-        private Button button6;
-        private Button button7;
-        private Button button8;
-        private Button button9;
-        private Button button10;
-        private Button button11;
-        private Button button12;
+        private Button btn_Wow;
+        private Button btn_Crickets;
+        private Button btn_FBI;
+        private Button btn_Bruh;
     }
 }

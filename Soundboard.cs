@@ -46,7 +46,7 @@ namespace DnDUtils
                 list_Characters.Items.Add(Path.GetFileNameWithoutExtension(file));
             }
         }
-        
+
         private void loadAmbience()
         {
             string[] files = Directory.GetFiles(@".\\sounds\\ambience\\");
@@ -55,7 +55,7 @@ namespace DnDUtils
                 list_Ambience.Items.Add(Path.GetFileNameWithoutExtension(file));
             }
         }
-        
+
         private void loadMemes()
         {
             string[] files = Directory.GetFiles(@".\\sounds\\memes\\");
@@ -71,24 +71,48 @@ namespace DnDUtils
             fileType = "characters\\";
             playFile(fileCharacters);
         }
-        
+
         private void btn_Stop_Click(object sender, EventArgs e)
         {
             player.Stop();
         }
-        
+
         private void btn_PlayAmbience_Click(object sender, EventArgs e)
         {
             fileAmbience = list_Ambience.Text;
             fileType = "ambience\\";
             playFile(fileAmbience);
         }
-        
+
         private void btn_PlayMemes_Click(object sender, EventArgs e)
         {
             fileMemes = list_Memes.Text;
             fileType = "memes\\";
             playFile(fileMemes);
+        }
+
+        private void btn_Wow_Click(object sender, EventArgs e)
+        {
+            fileType = "buttons\\";
+            playFile("wow");
+        }
+
+        private void btn_Crickets_Click(object sender, EventArgs e)
+        {
+            fileType = "buttons\\";
+            playFile("crickets");
+        }
+
+        private void btn_FBI_Click(object sender, EventArgs e)
+        {
+            fileType = "buttons\\";
+            playFile("fbi");
+        }
+
+        private void btn_Bruh_Click(object sender, EventArgs e)
+        {
+            fileType = "buttons\\";
+            playFile("bruh");
         }
     }
 }
